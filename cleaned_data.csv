@@ -1,0 +1,1045 @@
+date,year,month,customer_type,country,units_sold,product_name,cost_price,sales_price,revenue,cost,profit
+2022-04-01,2022,April,Government,France,19,QuadCast S,97,139,2641,1843,798
+2022-02-01,2022,February,Government,Canada,20,Arctis 7P+,104,149,2980,2080,900
+2022-06-01,2022,June,Creator,Mexico,5,MV7,174,199,995,870,125
+2022-10-01,2022,October,Government,Mexico,17,NT1-A,160,229,3893,2720,1173
+2023-12-01,2023,December,Creator,Canada,24,Scarlett 2i2,118,169,4056,2832,1224
+2023-06-01,2023,June,Government,France,15,Scarlett 2i2,118,169,2535,1770,765
+2023-06-01,2023,June,Government,France,12,AudioBox USB 96 Studio,90,199,2388,1080,1308
+2022-11-01,2022,November,Creator,United States of America,9,Scarlett 2i2,118,169,1521,1062,459
+2023-12-01,2023,December,Government,United States of America,27,Scarlett 2i2,118,169,4563,3186,1377
+2023-01-01,2023,January,Enterprise,Mexico,6,QuadCast S,97,139,834,582,252
+2023-12-01,2023,December,Small Business,Canada,19,Arctis 7P+,104,149,2831,1976,855
+2023-06-01,2023,June,Enterprise,France,8,QuadCast S,97,139,1112,776,336
+2023-10-01,2023,October,Government,Mexico,27,Scarlett 2i2,118,169,4563,3186,1377
+2022-02-01,2022,February,Government,Mexico,26,NT1-A,160,229,5954,4160,1794
+2022-06-01,2022,June,Small Business,Canada,4,AudioBox USB 96 Studio,90,199,796,360,436
+2023-02-01,2023,February,Government,Mexico,14,NT1-A,160,229,3206,2240,966
+2023-01-01,2023,January,Government,United States of America,14,Scarlett 2i2,118,169,2366,1652,714
+2023-01-01,2023,January,Government,Canada,22,NT1-A,160,229,5038,3520,1518
+2023-07-01,2023,July,Education,France,39,QuadCast S,97,139,5421,3783,1638
+2022-02-01,2022,February,Government,Mexico,17,AudioBox USB 96 Studio,90,199,3383,1530,1853
+2023-06-01,2023,June,Government,Mexico,9,MV7,174,199,1791,1566,225
+2022-02-01,2022,February,Education,France,16,QuadCast S,97,139,2224,1552,672
+2023-09-01,2023,September,Government,United States of America,21,Arctis 7P+,104,149,3129,2184,945
+2022-12-01,2022,December,Government,United States of America,14,AudioBox USB 96 Studio,90,199,2786,1260,1526
+2023-04-01,2023,April,Enterprise,Mexico,11,Arctis 7P+,104,149,1639,1144,495
+2023-03-01,2023,March,Government,Germany,12,Scarlett 2i2,118,169,2028,1416,612
+2022-02-01,2022,February,Creator,United States of America,8,MV7,174,199,1592,1392,200
+2023-02-01,2023,February,Education,Canada,24,Scarlett 2i2,118,169,4056,2832,1224
+2022-03-01,2022,March,Creator,Mexico,11,Scarlett 2i2,118,169,1859,1298,561
+2022-11-01,2022,November,Creator,Mexico,28,Scarlett 2i2,118,169,4732,3304,1428
+2023-10-01,2023,October,Government,Canada,27,NT1-A,160,229,6183,4320,1863
+2022-07-01,2022,July,Government,Germany,14,MV7,174,199,2786,2436,350
+2022-04-01,2022,April,Government,Canada,11,Scarlett 2i2,118,169,1859,1298,561
+2022-06-01,2022,June,Government,United States of America,10,Arctis 7P+,104,149,1490,1040,450
+2022-08-01,2022,August,Creator,Germany,26,Arctis 7P+,104,149,3874,2704,1170
+2023-05-01,2023,May,Government,Mexico,4,AudioBox USB 96 Studio,90,199,796,360,436
+2023-12-01,2023,December,Education,France,21,NT1-A,160,229,4809,3360,1449
+2023-12-01,2023,December,Government,France,22,Scarlett 2i2,118,169,3718,2596,1122
+2023-12-01,2023,December,Small Business,Germany,13,Arctis 7P+,104,149,1937,1352,585
+2022-06-01,2022,June,Government,Canada,24,Scarlett 2i2,118,169,4056,2832,1224
+2022-12-01,2022,December,Small Business,Canada,24,QuadCast S,97,139,3336,2328,1008
+2023-01-01,2023,January,Education,Mexico,29,AudioBox USB 96 Studio,90,199,5771,2610,3161
+2023-10-01,2023,October,Creator,Germany,5,AudioBox USB 96 Studio,90,199,995,450,545
+2022-11-01,2022,November,Government,France,19,Scarlett 2i2,118,169,3211,2242,969
+2023-07-01,2023,July,Government,Mexico,14,AudioBox USB 96 Studio,90,199,2786,1260,1526
+2022-08-01,2022,August,Creator,Mexico,19,Arctis 7P+,104,149,2831,1976,855
+2023-09-01,2023,September,Education,Canada,2,Scarlett 2i2,118,169,338,236,102
+2022-11-01,2022,November,Enterprise,France,19,NT1-A,160,229,4351,3040,1311
+2022-06-01,2022,June,Enterprise,France,17,AudioBox USB 96 Studio,90,199,3383,1530,1853
+2023-03-01,2023,March,Government,United States of America,10,Scarlett 2i2,118,169,1690,1180,510
+2023-12-01,2023,December,Education,Germany,7,Arctis 7P+,104,149,1043,728,315
+2022-10-01,2022,October,Government,Mexico,3,AudioBox USB 96 Studio,90,199,597,270,327
+2022-03-01,2022,March,Government,Mexico,18,Scarlett 2i2,118,169,3042,2124,918
+2022-10-01,2022,October,Government,Germany,12,Arctis 7P+,104,149,1788,1248,540
+2023-09-01,2023,September,Small Business,France,22,QuadCast S,97,139,3058,2134,924
+2023-12-01,2023,December,Creator,Canada,24,AudioBox USB 96 Studio,90,199,4776,2160,2616
+2023-07-01,2023,July,Education,Mexico,6,QuadCast S,97,139,834,582,252
+2023-12-01,2023,December,Government,France,3,Scarlett 2i2,118,169,507,354,153
+2022-08-01,2022,August,Government,Mexico,29,AudioBox USB 96 Studio,90,199,5771,2610,3161
+2023-05-01,2023,May,Enterprise,Germany,23,Arctis 7P+,104,149,3427,2392,1035
+2023-08-01,2023,August,Creator,Canada,19,MV7,174,199,3781,3306,475
+2023-11-01,2023,November,Government,France,6,AudioBox USB 96 Studio,90,199,1194,540,654
+2023-06-01,2023,June,Government,Canada,7,NT1-A,160,229,1603,1120,483
+2023-04-01,2023,April,Creator,United States of America,20,Arctis 7P+,104,149,2980,2080,900
+2023-06-01,2023,June,Government,France,19,NT1-A,160,229,4351,3040,1311
+2022-03-01,2022,March,Government,France,28,Scarlett 2i2,118,169,4732,3304,1428
+2022-09-01,2022,September,Government,Canada,27,AudioBox USB 96 Studio,90,199,5373,2430,2943
+2023-07-01,2023,July,Government,United States of America,35,Scarlett 2i2,118,169,5915,4130,1785
+2022-03-01,2022,March,Government,United States of America,16,MV7,174,199,3184,2784,400
+2022-12-01,2022,December,Creator,Mexico,14,Arctis 7P+,104,149,2086,1456,630
+2022-06-01,2022,June,Education,France,9,QuadCast S,97,139,1251,873,378
+2022-09-01,2022,September,Education,Germany,7,AudioBox USB 96 Studio,90,199,1393,630,763
+2023-01-01,2023,January,Government,Germany,13,MV7,174,199,2587,2262,325
+2022-10-01,2022,October,Education,Mexico,15,Scarlett 2i2,118,169,2535,1770,765
+2023-08-01,2023,August,Government,United States of America,7,Scarlett 2i2,118,169,1183,826,357
+2022-01-01,2022,January,Small Business,Germany,14,Scarlett 2i2,118,169,2366,1652,714
+2022-01-01,2022,January,Enterprise,United States of America,2,MV7,174,199,398,348,50
+2023-11-01,2023,November,Creator,Canada,23,NT1-A,160,229,5267,3680,1587
+2023-11-01,2023,November,Enterprise,Canada,25,QuadCast S,97,139,3475,2425,1050
+2022-06-01,2022,June,Enterprise,United States of America,20,NT1-A,160,229,4580,3200,1380
+2022-09-01,2022,September,Small Business,Germany,11,Scarlett 2i2,118,169,1859,1298,561
+2023-11-01,2023,November,Creator,France,23,NT1-A,160,229,5267,3680,1587
+2022-07-01,2022,July,Government,France,28,QuadCast S,97,139,3892,2716,1176
+2022-10-01,2022,October,Government,France,18,Scarlett 2i2,118,169,3042,2124,918
+2023-03-01,2023,March,Government,Germany,8,MV7,174,199,1592,1392,200
+2023-10-01,2023,October,Government,Mexico,14,MV7,174,199,2786,2436,350
+2022-10-01,2022,October,Education,United States of America,7,Arctis 7P+,104,149,1043,728,315
+2023-06-01,2023,June,Creator,Canada,25,Scarlett 2i2,118,169,4225,2950,1275
+2022-05-01,2022,May,Enterprise,Mexico,22,Arctis 7P+,104,149,3278,2288,990
+2022-09-01,2022,September,Government,Germany,24,Scarlett 2i2,118,169,4056,2832,1224
+2022-10-01,2022,October,Government,United States of America,3,Scarlett 2i2,118,169,507,354,153
+2023-06-01,2023,June,Government,United States of America,13,Arctis 7P+,104,149,1937,1352,585
+2022-02-01,2022,February,Government,Canada,17,MV7,174,199,3383,2958,425
+2022-10-01,2022,October,Creator,France,12,Scarlett 2i2,118,169,2028,1416,612
+2023-07-01,2023,July,Creator,United States of America,14,Scarlett 2i2,118,169,2366,1652,714
+2022-03-01,2022,March,Education,Germany,5,Arctis 7P+,104,149,745,520,225
+2022-04-01,2022,April,Creator,Germany,28,Arctis 7P+,104,149,4172,2912,1260
+2022-04-01,2022,April,Education,Mexico,9,Scarlett 2i2,118,169,1521,1062,459
+2022-03-01,2022,March,Government,Germany,26,QuadCast S,97,139,3614,2522,1092
+2023-10-01,2023,October,Government,United States of America,10,QuadCast S,97,139,1390,970,420
+2023-12-01,2023,December,Government,Canada,18,Scarlett 2i2,118,169,3042,2124,918
+2022-04-01,2022,April,Government,Germany,18,QuadCast S,97,139,2502,1746,756
+2023-09-01,2023,September,Government,France,5,NT1-A,160,229,1145,800,345
+2022-04-01,2022,April,Enterprise,France,21,MV7,174,199,4179,3654,525
+2023-02-01,2023,February,Government,Canada,3,Scarlett 2i2,118,169,507,354,153
+2023-01-01,2023,January,Small Business,Canada,9,Scarlett 2i2,118,169,1521,1062,459
+2022-08-01,2022,August,Small Business,France,0,NT1-A,160,229,0,0,0
+2023-06-01,2023,June,Government,Germany,14,Arctis 7P+,104,149,2086,1456,630
+2022-06-01,2022,June,Enterprise,Canada,24,NT1-A,160,229,5496,3840,1656
+2023-02-01,2023,February,Government,Canada,5,NT1-A,160,229,1145,800,345
+2023-04-01,2023,April,Creator,Germany,28,QuadCast S,97,139,3892,2716,1176
+2022-10-01,2022,October,Small Business,Canada,3,QuadCast S,97,139,417,291,126
+2023-12-01,2023,December,Government,France,25,QuadCast S,97,139,3475,2425,1050
+2022-08-01,2022,August,Government,France,8,QuadCast S,97,139,1112,776,336
+2022-10-01,2022,October,Government,United States of America,3,QuadCast S,97,139,417,291,126
+2023-09-01,2023,September,Enterprise,Canada,6,AudioBox USB 96 Studio,90,199,1194,540,654
+2023-11-01,2023,November,Government,Mexico,17,Arctis 7P+,104,149,2533,1768,765
+2023-12-01,2023,December,Creator,France,11,Scarlett 2i2,118,169,1859,1298,561
+2022-05-01,2022,May,Education,United States of America,20,Scarlett 2i2,118,169,3380,2360,1020
+2023-10-01,2023,October,Education,Mexico,20,NT1-A,160,229,4580,3200,1380
+2022-01-01,2022,January,Creator,Germany,7,QuadCast S,97,139,973,679,294
+2022-03-01,2022,March,Government,Germany,11,MV7,174,199,2189,1914,275
+2022-10-01,2022,October,Creator,Germany,8,MV7,174,199,1592,1392,200
+2022-02-01,2022,February,Enterprise,Germany,25,Scarlett 2i2,118,169,4225,2950,1275
+2022-08-01,2022,August,Government,France,18,Scarlett 2i2,118,169,3042,2124,918
+2023-04-01,2023,April,Education,Canada,16,Scarlett 2i2,118,169,2704,1888,816
+2023-12-01,2023,December,Education,United States of America,6,NT1-A,160,229,1374,960,414
+2023-08-01,2023,August,Creator,Mexico,11,Arctis 7P+,104,149,1639,1144,495
+2023-06-01,2023,June,Government,Canada,26,Scarlett 2i2,118,169,4394,3068,1326
+2023-10-01,2023,October,Government,Canada,13,AudioBox USB 96 Studio,90,199,2587,1170,1417
+2022-06-01,2022,June,Government,Mexico,5,Arctis 7P+,104,149,745,520,225
+2023-03-01,2023,March,Government,Canada,9,MV7,174,199,1791,1566,225
+2022-09-01,2022,September,Education,Canada,25,Scarlett 2i2,118,169,4225,2950,1275
+2022-05-01,2022,May,Government,France,17,AudioBox USB 96 Studio,90,199,3383,1530,1853
+2023-03-01,2023,March,Creator,Canada,6,AudioBox USB 96 Studio,90,199,1194,540,654
+2022-04-01,2022,April,Government,Mexico,7,QuadCast S,97,139,973,679,294
+2023-07-01,2023,July,Small Business,Germany,28,MV7,174,199,5572,4872,700
+2022-02-01,2022,February,Enterprise,Mexico,25,Scarlett 2i2,118,169,4225,2950,1275
+2023-02-01,2023,February,Government,Germany,14,Arctis 7P+,104,149,2086,1456,630
+2022-11-01,2022,November,Enterprise,Canada,30,QuadCast S,97,139,4170,2910,1260
+2023-09-01,2023,September,Education,Mexico,25,Scarlett 2i2,118,169,4225,2950,1275
+2023-05-01,2023,May,Government,Canada,2,NT1-A,160,229,458,320,138
+2023-06-01,2023,June,Government,Canada,7,Arctis 7P+,104,149,1043,728,315
+2023-10-01,2023,October,Enterprise,France,24,Scarlett 2i2,118,169,4056,2832,1224
+2023-10-01,2023,October,Creator,Mexico,4,AudioBox USB 96 Studio,90,199,796,360,436
+2022-04-01,2022,April,Government,Germany,1,Scarlett 2i2,118,169,169,118,51
+2023-10-01,2023,October,Government,Canada,13,Arctis 7P+,104,149,1937,1352,585
+2023-02-01,2023,February,Education,United States of America,15,Scarlett 2i2,118,169,2535,1770,765
+2023-10-01,2023,October,Government,United States of America,10,AudioBox USB 96 Studio,90,199,1990,900,1090
+2022-10-01,2022,October,Government,United States of America,7,Scarlett 2i2,118,169,1183,826,357
+2022-11-01,2022,November,Education,France,3,Arctis 7P+,104,149,447,312,135
+2023-10-01,2023,October,Government,France,22,QuadCast S,97,139,3058,2134,924
+2023-06-01,2023,June,Enterprise,United States of America,7,QuadCast S,97,139,973,679,294
+2022-07-01,2022,July,Small Business,Mexico,3,AudioBox USB 96 Studio,90,199,597,270,327
+2023-06-01,2023,June,Education,United States of America,26,QuadCast S,97,139,3614,2522,1092
+2022-04-01,2022,April,Creator,Mexico,12,Arctis 7P+,104,149,1788,1248,540
+2023-09-01,2023,September,Education,France,26,Scarlett 2i2,118,169,4394,3068,1326
+2023-05-01,2023,May,Enterprise,Canada,17,Arctis 7P+,104,149,2533,1768,765
+2023-08-01,2023,August,Government,Mexico,9,Scarlett 2i2,118,169,1521,1062,459
+2022-07-01,2022,July,Enterprise,Mexico,5,NT1-A,160,229,1145,800,345
+2023-06-01,2023,June,Small Business,Germany,7,Scarlett 2i2,118,169,1183,826,357
+2022-11-01,2022,November,Government,France,27,QuadCast S,97,139,3753,2619,1134
+2022-04-01,2022,April,Government,United States of America,0,QuadCast S,97,139,0,0,0
+2022-06-01,2022,June,Government,France,30,Arctis 7P+,104,149,4470,3120,1350
+2023-07-01,2023,July,Government,Canada,9,QuadCast S,97,139,1251,873,378
+2023-06-01,2023,June,Enterprise,Germany,16,Scarlett 2i2,118,169,2704,1888,816
+2022-03-01,2022,March,Government,United States of America,15,QuadCast S,97,139,2085,1455,630
+2023-02-01,2023,February,Enterprise,United States of America,28,AudioBox USB 96 Studio,90,199,5572,2520,3052
+2022-12-01,2022,December,Enterprise,Mexico,28,MV7,174,199,5572,4872,700
+2023-06-01,2023,June,Enterprise,France,8,Scarlett 2i2,118,169,1352,944,408
+2022-12-01,2022,December,Enterprise,Canada,19,AudioBox USB 96 Studio,90,199,3781,1710,2071
+2023-02-01,2023,February,Enterprise,Mexico,16,AudioBox USB 96 Studio,90,199,3184,1440,1744
+2023-08-01,2023,August,Government,France,16,AudioBox USB 96 Studio,90,199,3184,1440,1744
+2022-03-01,2022,March,Creator,France,16,Scarlett 2i2,118,169,2704,1888,816
+2023-12-01,2023,December,Government,Mexico,12,Scarlett 2i2,118,169,2028,1416,612
+2022-05-01,2022,May,Government,Canada,1,QuadCast S,97,139,139,97,42
+2022-07-01,2022,July,Government,Germany,10,Scarlett 2i2,118,169,1690,1180,510
+2022-10-01,2022,October,Education,Germany,20,QuadCast S,97,139,2780,1940,840
+2023-10-01,2023,October,Small Business,United States of America,10,MV7,174,199,1990,1740,250
+2023-03-01,2023,March,Government,France,18,MV7,174,199,3582,3132,450
+2023-02-01,2023,February,Creator,France,19,MV7,174,199,3781,3306,475
+2022-06-01,2022,June,Small Business,France,21,QuadCast S,97,139,2919,2037,882
+2023-05-01,2023,May,Government,United States of America,23,Scarlett 2i2,118,169,3887,2714,1173
+2023-06-01,2023,June,Creator,Germany,16,NT1-A,160,229,3664,2560,1104
+2023-10-01,2023,October,Small Business,Canada,15,MV7,174,199,2985,2610,375
+2022-03-01,2022,March,Enterprise,Mexico,14,NT1-A,160,229,3206,2240,966
+2022-05-01,2022,May,Government,France,20,Scarlett 2i2,118,169,3380,2360,1020
+2023-07-01,2023,July,Small Business,Canada,38,AudioBox USB 96 Studio,90,199,7562,3420,4142
+2022-07-01,2022,July,Government,Mexico,7,MV7,174,199,1393,1218,175
+2023-12-01,2023,December,Creator,Mexico,11,AudioBox USB 96 Studio,90,199,2189,990,1199
+2023-10-01,2023,October,Enterprise,United States of America,9,Scarlett 2i2,118,169,1521,1062,459
+2022-06-01,2022,June,Government,Germany,2,NT1-A,160,229,458,320,138
+2022-10-01,2022,October,Education,Canada,17,Arctis 7P+,104,149,2533,1768,765
+2023-10-01,2023,October,Government,United States of America,16,AudioBox USB 96 Studio,90,199,3184,1440,1744
+2022-02-01,2022,February,Government,Mexico,4,Arctis 7P+,104,149,596,416,180
+2023-09-01,2023,September,Creator,Canada,15,MV7,174,199,2985,2610,375
+2022-06-01,2022,June,Government,Mexico,26,NT1-A,160,229,5954,4160,1794
+2023-09-01,2023,September,Government,United States of America,23,NT1-A,160,229,5267,3680,1587
+2022-02-01,2022,February,Creator,Mexico,16,Scarlett 2i2,118,169,2704,1888,816
+2022-06-01,2022,June,Government,France,16,AudioBox USB 96 Studio,90,199,3184,1440,1744
+2022-02-01,2022,February,Government,Germany,23,Arctis 7P+,104,149,3427,2392,1035
+2022-09-01,2022,September,Creator,United States of America,20,Arctis 7P+,104,149,2980,2080,900
+2023-06-01,2023,June,Government,France,15,AudioBox USB 96 Studio,90,199,2985,1350,1635
+2022-08-01,2022,August,Government,United States of America,10,AudioBox USB 96 Studio,90,199,1990,900,1090
+2022-01-01,2022,January,Creator,France,8,QuadCast S,97,139,1112,776,336
+2023-11-01,2023,November,Government,Germany,15,Arctis 7P+,104,149,2235,1560,675
+2023-08-01,2023,August,Government,France,4,QuadCast S,97,139,556,388,168
+2023-08-01,2023,August,Small Business,Canada,19,QuadCast S,97,139,2641,1843,798
+2022-06-01,2022,June,Small Business,France,19,AudioBox USB 96 Studio,90,199,3781,1710,2071
+2022-11-01,2022,November,Government,Canada,17,Scarlett 2i2,118,169,2873,2006,867
+2023-03-01,2023,March,Enterprise,United States of America,30,Scarlett 2i2,118,169,5070,3540,1530
+2023-06-01,2023,June,Creator,France,19,Scarlett 2i2,118,169,3211,2242,969
+2022-05-01,2022,May,Enterprise,Germany,21,Arctis 7P+,104,149,3129,2184,945
+2023-08-01,2023,August,Government,Canada,24,Scarlett 2i2,118,169,4056,2832,1224
+2022-12-01,2022,December,Government,Mexico,5,AudioBox USB 96 Studio,90,199,995,450,545
+2022-02-01,2022,February,Government,Germany,16,Arctis 7P+,104,149,2384,1664,720
+2022-03-01,2022,March,Education,Canada,13,MV7,174,199,2587,2262,325
+2023-10-01,2023,October,Education,Germany,12,Scarlett 2i2,118,169,2028,1416,612
+2023-10-01,2023,October,Government,Mexico,9,AudioBox USB 96 Studio,90,199,1791,810,981
+2023-09-01,2023,September,Creator,France,27,MV7,174,199,5373,4698,675
+2022-09-01,2022,September,Small Business,Mexico,8,Scarlett 2i2,118,169,1352,944,408
+2022-10-01,2022,October,Education,Mexico,15,QuadCast S,97,139,2085,1455,630
+2022-11-01,2022,November,Government,United States of America,20,Scarlett 2i2,118,169,3380,2360,1020
+2023-05-01,2023,May,Government,United States of America,17,MV7,174,199,3383,2958,425
+2022-02-01,2022,February,Small Business,Mexico,4,QuadCast S,97,139,556,388,168
+2022-08-01,2022,August,Government,Mexico,11,QuadCast S,97,139,1529,1067,462
+2023-10-01,2023,October,Enterprise,France,24,MV7,174,199,4776,4176,600
+2022-05-01,2022,May,Education,Canada,13,Scarlett 2i2,118,169,2197,1534,663
+2022-06-01,2022,June,Creator,Germany,24,MV7,174,199,4776,4176,600
+2023-05-01,2023,May,Government,Germany,15,NT1-A,160,229,3435,2400,1035
+2022-06-01,2022,June,Small Business,Mexico,3,QuadCast S,97,139,417,291,126
+2022-10-01,2022,October,Enterprise,France,7,AudioBox USB 96 Studio,90,199,1393,630,763
+2023-11-01,2023,November,Government,United States of America,6,AudioBox USB 96 Studio,90,199,1194,540,654
+2023-10-01,2023,October,Creator,United States of America,29,Scarlett 2i2,118,169,4901,3422,1479
+2023-12-01,2023,December,Government,Germany,3,QuadCast S,97,139,417,291,126
+2022-10-01,2022,October,Small Business,France,12,AudioBox USB 96 Studio,90,199,2388,1080,1308
+2022-09-01,2022,September,Government,Germany,4,MV7,174,199,796,696,100
+2022-06-01,2022,June,Government,Mexico,4,NT1-A,160,229,916,640,276
+2023-02-01,2023,February,Education,Mexico,10,Scarlett 2i2,118,169,1690,1180,510
+2022-11-01,2022,November,Education,United States of America,26,Arctis 7P+,104,149,3874,2704,1170
+2023-12-01,2023,December,Government,France,22,MV7,174,199,4378,3828,550
+2022-12-01,2022,December,Government,Canada,18,Arctis 7P+,104,149,2682,1872,810
+2022-07-01,2022,July,Small Business,Germany,3,AudioBox USB 96 Studio,90,199,597,270,327
+2022-12-01,2022,December,Small Business,France,12,NT1-A,160,229,2748,1920,828
+2023-02-01,2023,February,Creator,Germany,11,MV7,174,199,2189,1914,275
+2022-10-01,2022,October,Small Business,France,12,QuadCast S,97,139,1668,1164,504
+2022-11-01,2022,November,Government,Canada,21,AudioBox USB 96 Studio,90,199,4179,1890,2289
+2023-11-01,2023,November,Government,United States of America,12,Scarlett 2i2,118,169,2028,1416,612
+2023-04-01,2023,April,Government,Canada,7,Scarlett 2i2,118,169,1183,826,357
+2022-02-01,2022,February,Government,Germany,5,NT1-A,160,229,1145,800,345
+2022-05-01,2022,May,Education,Mexico,8,AudioBox USB 96 Studio,90,199,1592,720,872
+2023-01-01,2023,January,Government,Mexico,26,Arctis 7P+,104,149,3874,2704,1170
+2023-03-01,2023,March,Creator,Germany,22,AudioBox USB 96 Studio,90,199,4378,1980,2398
+2022-02-01,2022,February,Small Business,France,3,AudioBox USB 96 Studio,90,199,597,270,327
+2022-03-01,2022,March,Enterprise,Canada,13,QuadCast S,97,139,1807,1261,546
+2023-07-01,2023,July,Government,Germany,17,Arctis 7P+,104,149,2533,1768,765
+2022-10-01,2022,October,Creator,Germany,8,Scarlett 2i2,118,169,1352,944,408
+2023-09-01,2023,September,Small Business,United States of America,19,QuadCast S,97,139,2641,1843,798
+2023-01-01,2023,January,Government,Canada,43,Scarlett 2i2,118,169,7267,5074,2193
+2022-03-01,2022,March,Creator,United States of America,2,Scarlett 2i2,118,169,338,236,102
+2023-03-01,2023,March,Government,France,20,Scarlett 2i2,118,169,3380,2360,1020
+2023-09-01,2023,September,Government,France,29,Arctis 7P+,104,149,4321,3016,1305
+2023-02-01,2023,February,Small Business,France,10,QuadCast S,97,139,1390,970,420
+2023-08-01,2023,August,Government,Canada,6,Arctis 7P+,104,149,894,624,270
+2022-07-01,2022,July,Education,Germany,16,Arctis 7P+,104,149,2384,1664,720
+2023-06-01,2023,June,Education,United States of America,26,MV7,174,199,5174,4524,650
+2022-12-01,2022,December,Education,United States of America,19,Scarlett 2i2,118,169,3211,2242,969
+2022-01-01,2022,January,Education,France,27,Scarlett 2i2,118,169,4563,3186,1377
+2022-10-01,2022,October,Small Business,Germany,2,MV7,174,199,398,348,50
+2023-05-01,2023,May,Government,Germany,7,MV7,174,199,1393,1218,175
+2022-12-01,2022,December,Small Business,Mexico,11,NT1-A,160,229,2519,1760,759
+2023-07-01,2023,July,Enterprise,Mexico,18,Scarlett 2i2,118,169,3042,2124,918
+2023-10-01,2023,October,Education,France,12,Scarlett 2i2,118,169,2028,1416,612
+2022-01-01,2022,January,Creator,Mexico,26,QuadCast S,97,139,3614,2522,1092
+2022-02-01,2022,February,Enterprise,Germany,10,AudioBox USB 96 Studio,90,199,1990,900,1090
+2023-05-01,2023,May,Government,France,10,Scarlett 2i2,118,169,1690,1180,510
+2023-12-01,2023,December,Government,Canada,18,QuadCast S,97,139,2502,1746,756
+2023-12-01,2023,December,Government,Mexico,5,MV7,174,199,995,870,125
+2022-10-01,2022,October,Enterprise,Canada,4,AudioBox USB 96 Studio,90,199,796,360,436
+2022-10-01,2022,October,Creator,United States of America,4,MV7,174,199,796,696,100
+2022-04-01,2022,April,Education,Germany,24,Scarlett 2i2,118,169,4056,2832,1224
+2022-12-01,2022,December,Creator,United States of America,20,Arctis 7P+,104,149,2980,2080,900
+2022-08-01,2022,August,Government,Canada,17,Scarlett 2i2,118,169,2873,2006,867
+2023-06-01,2023,June,Creator,Germany,16,AudioBox USB 96 Studio,90,199,3184,1440,1744
+2023-12-01,2023,December,Enterprise,Canada,27,QuadCast S,97,139,3753,2619,1134
+2022-01-01,2022,January,Government,Germany,21,Scarlett 2i2,118,169,3549,2478,1071
+2022-09-01,2022,September,Government,United States of America,4,QuadCast S,97,139,556,388,168
+2023-09-01,2023,September,Government,Mexico,24,NT1-A,160,229,5496,3840,1656
+2022-04-01,2022,April,Education,France,9,Scarlett 2i2,118,169,1521,1062,459
+2022-07-01,2022,July,Government,Germany,18,QuadCast S,97,139,2502,1746,756
+2023-02-01,2023,February,Enterprise,Canada,10,AudioBox USB 96 Studio,90,199,1990,900,1090
+2022-05-01,2022,May,Creator,United States of America,15,Arctis 7P+,104,149,2235,1560,675
+2022-10-01,2022,October,Government,United States of America,30,MV7,174,199,5970,5220,750
+2022-02-01,2022,February,Government,United States of America,17,Scarlett 2i2,118,169,2873,2006,867
+2023-02-01,2023,February,Government,United States of America,26,Scarlett 2i2,118,169,4394,3068,1326
+2023-12-01,2023,December,Creator,Mexico,11,Scarlett 2i2,118,169,1859,1298,561
+2023-03-01,2023,March,Enterprise,Mexico,11,Scarlett 2i2,118,169,1859,1298,561
+2022-06-01,2022,June,Enterprise,France,25,Scarlett 2i2,118,169,4225,2950,1275
+2023-12-01,2023,December,Government,Canada,29,Scarlett 2i2,118,169,4901,3422,1479
+2022-01-01,2022,January,Government,France,18,Scarlett 2i2,118,169,3042,2124,918
+2023-03-01,2023,March,Education,United States of America,7,NT1-A,160,229,1603,1120,483
+2023-11-01,2023,November,Government,France,16,Scarlett 2i2,118,169,2704,1888,816
+2022-05-01,2022,May,Small Business,Germany,18,Scarlett 2i2,118,169,3042,2124,918
+2022-10-01,2022,October,Government,France,14,Arctis 7P+,104,149,2086,1456,630
+2023-02-01,2023,February,Government,France,28,Arctis 7P+,104,149,4172,2912,1260
+2023-11-01,2023,November,Creator,Mexico,7,NT1-A,160,229,1603,1120,483
+2022-01-01,2022,January,Government,Mexico,8,MV7,174,199,1592,1392,200
+2023-04-01,2023,April,Education,France,38,Scarlett 2i2,118,169,6422,4484,1938
+2023-05-01,2023,May,Creator,United States of America,18,QuadCast S,97,139,2502,1746,756
+2022-04-01,2022,April,Small Business,Canada,13,QuadCast S,97,139,1807,1261,546
+2022-03-01,2022,March,Government,Canada,9,QuadCast S,97,139,1251,873,378
+2023-10-01,2023,October,Education,France,12,QuadCast S,97,139,1668,1164,504
+2023-06-01,2023,June,Creator,United States of America,11,NT1-A,160,229,2519,1760,759
+2022-04-01,2022,April,Enterprise,United States of America,28,AudioBox USB 96 Studio,90,199,5572,2520,3052
+2023-08-01,2023,August,Education,Germany,17,Scarlett 2i2,118,169,2873,2006,867
+2023-11-01,2023,November,Government,France,9,Arctis 7P+,104,149,1341,936,405
+2023-12-01,2023,December,Enterprise,France,13,NT1-A,160,229,2977,2080,897
+2023-01-01,2023,January,Education,Germany,7,AudioBox USB 96 Studio,90,199,1393,630,763
+2023-04-01,2023,April,Small Business,Canada,38,NT1-A,160,229,8702,6080,2622
+2023-10-01,2023,October,Enterprise,Canada,20,Scarlett 2i2,118,169,3380,2360,1020
+2022-02-01,2022,February,Government,Canada,10,Scarlett 2i2,118,169,1690,1180,510
+2022-10-01,2022,October,Enterprise,United States of America,7,AudioBox USB 96 Studio,90,199,1393,630,763
+2022-06-01,2022,June,Education,Mexico,24,Scarlett 2i2,118,169,4056,2832,1224
+2023-12-01,2023,December,Small Business,United States of America,14,AudioBox USB 96 Studio,90,199,2786,1260,1526
+2023-01-01,2023,January,Creator,United States of America,20,QuadCast S,97,139,2780,1940,840
+2023-01-01,2023,January,Enterprise,Germany,32,Arctis 7P+,104,149,4768,3328,1440
+2022-10-01,2022,October,Enterprise,Mexico,22,Scarlett 2i2,118,169,3718,2596,1122
+2023-12-01,2023,December,Government,France,3,QuadCast S,97,139,417,291,126
+2022-02-01,2022,February,Creator,Germany,26,MV7,174,199,5174,4524,650
+2022-08-01,2022,August,Education,Mexico,2,Scarlett 2i2,118,169,338,236,102
+2022-10-01,2022,October,Government,United States of America,7,Arctis 7P+,104,149,1043,728,315
+2022-06-01,2022,June,Government,Germany,9,NT1-A,160,229,2061,1440,621
+2023-09-01,2023,September,Creator,Mexico,6,MV7,174,199,1194,1044,150
+2022-10-01,2022,October,Government,France,21,AudioBox USB 96 Studio,90,199,4179,1890,2289
+2022-05-01,2022,May,Creator,Germany,10,QuadCast S,97,139,1390,970,420
+2023-10-01,2023,October,Enterprise,Mexico,22,Scarlett 2i2,118,169,3718,2596,1122
+2022-09-01,2022,September,Small Business,Canada,13,NT1-A,160,229,2977,2080,897
+2022-02-01,2022,February,Education,Canada,16,Arctis 7P+,104,149,2384,1664,720
+2022-06-01,2022,June,Enterprise,United States of America,17,AudioBox USB 96 Studio,90,199,3383,1530,1853
+2022-06-01,2022,June,Small Business,Mexico,10,MV7,174,199,1990,1740,250
+2023-12-01,2023,December,Government,Mexico,14,MV7,174,199,2786,2436,350
+2023-04-01,2023,April,Government,Germany,26,MV7,174,199,5174,4524,650
+2023-12-01,2023,December,Small Business,Mexico,6,AudioBox USB 96 Studio,90,199,1194,540,654
+2023-04-01,2023,April,Enterprise,Canada,7,MV7,174,199,1393,1218,175
+2023-08-01,2023,August,Creator,France,25,Arctis 7P+,104,149,3725,2600,1125
+2023-07-01,2023,July,Enterprise,United States of America,36,NT1-A,160,229,8244,5760,2484
+2022-02-01,2022,February,Government,Canada,12,QuadCast S,97,139,1668,1164,504
+2023-02-01,2023,February,Small Business,Canada,20,QuadCast S,97,139,2780,1940,840
+2022-03-01,2022,March,Enterprise,France,7,NT1-A,160,229,1603,1120,483
+2023-06-01,2023,June,Government,Mexico,10,Scarlett 2i2,118,169,1690,1180,510
+2022-10-01,2022,October,Small Business,Mexico,5,QuadCast S,97,139,695,485,210
+2023-04-01,2023,April,Government,Canada,39,AudioBox USB 96 Studio,90,199,7761,3510,4251
+2023-04-01,2023,April,Government,France,25,Scarlett 2i2,118,169,4225,2950,1275
+2022-06-01,2022,June,Education,United States of America,1,Arctis 7P+,104,149,149,104,45
+2022-02-01,2022,February,Government,Germany,27,Scarlett 2i2,118,169,4563,3186,1377
+2022-06-01,2022,June,Education,Canada,20,Scarlett 2i2,118,169,3380,2360,1020
+2023-06-01,2023,June,Education,Mexico,25,MV7,174,199,4975,4350,625
+2023-03-01,2023,March,Education,Germany,9,NT1-A,160,229,2061,1440,621
+2022-04-01,2022,April,Enterprise,Mexico,10,MV7,174,199,1990,1740,250
+2022-05-01,2022,May,Government,Mexico,7,Scarlett 2i2,118,169,1183,826,357
+2022-12-01,2022,December,Education,Germany,21,Scarlett 2i2,118,169,3549,2478,1071
+2023-09-01,2023,September,Small Business,Mexico,4,QuadCast S,97,139,556,388,168
+2023-12-01,2023,December,Government,United States of America,6,QuadCast S,97,139,834,582,252
+2022-06-01,2022,June,Education,Canada,16,Arctis 7P+,104,149,2384,1664,720
+2023-12-01,2023,December,Government,Germany,15,Scarlett 2i2,118,169,2535,1770,765
+2022-04-01,2022,April,Small Business,United States of America,7,QuadCast S,97,139,973,679,294
+2023-06-01,2023,June,Government,United States of America,29,AudioBox USB 96 Studio,90,199,5771,2610,3161
+2022-02-01,2022,February,Government,Mexico,7,Scarlett 2i2,118,169,1183,826,357
+2022-03-01,2022,March,Government,Germany,1,Scarlett 2i2,118,169,169,118,51
+2022-02-01,2022,February,Education,Germany,21,Scarlett 2i2,118,169,3549,2478,1071
+2022-05-01,2022,May,Government,Germany,11,MV7,174,199,2189,1914,275
+2022-05-01,2022,May,Small Business,France,8,NT1-A,160,229,1832,1280,552
+2023-07-01,2023,July,Small Business,France,17,AudioBox USB 96 Studio,90,199,3383,1530,1853
+2022-04-01,2022,April,Small Business,Mexico,7,NT1-A,160,229,1603,1120,483
+2022-09-01,2022,September,Education,Mexico,7,AudioBox USB 96 Studio,90,199,1393,630,763
+2022-10-01,2022,October,Enterprise,Canada,4,NT1-A,160,229,916,640,276
+2023-06-01,2023,June,Creator,Mexico,6,NT1-A,160,229,1374,960,414
+2023-09-01,2023,September,Creator,Germany,16,MV7,174,199,3184,2784,400
+2022-06-01,2022,June,Creator,Canada,22,Scarlett 2i2,118,169,3718,2596,1122
+2022-10-01,2022,October,Creator,France,12,MV7,174,199,2388,2088,300
+2023-06-01,2023,June,Government,United States of America,6,AudioBox USB 96 Studio,90,199,1194,540,654
+2022-06-01,2022,June,Enterprise,Mexico,30,AudioBox USB 96 Studio,90,199,5970,2700,3270
+2023-04-01,2023,April,Government,Mexico,26,MV7,174,199,5174,4524,650
+2023-07-01,2023,July,Education,United States of America,32,Arctis 7P+,104,149,4768,3328,1440
+2022-02-01,2022,February,Government,United States of America,29,QuadCast S,97,139,4031,2813,1218
+2023-01-01,2023,January,Creator,Canada,32,QuadCast S,97,139,4448,3104,1344
+2023-06-01,2023,June,Enterprise,Mexico,7,Scarlett 2i2,118,169,1183,826,357
+2023-04-01,2023,April,Government,Canada,9,QuadCast S,97,139,1251,873,378
+2022-12-01,2022,December,Government,Mexico,20,Scarlett 2i2,118,169,3380,2360,1020
+2023-05-01,2023,May,Enterprise,France,14,Arctis 7P+,104,149,2086,1456,630
+2022-11-01,2022,November,Enterprise,United States of America,18,NT1-A,160,229,4122,2880,1242
+2022-10-01,2022,October,Education,France,22,QuadCast S,97,139,3058,2134,924
+2022-08-01,2022,August,Small Business,Canada,23,QuadCast S,97,139,3197,2231,966
+2022-07-01,2022,July,Government,France,25,Scarlett 2i2,118,169,4225,2950,1275
+2022-08-01,2022,August,Enterprise,United States of America,5,AudioBox USB 96 Studio,90,199,995,450,545
+2022-10-01,2022,October,Creator,Canada,23,Scarlett 2i2,118,169,3887,2714,1173
+2023-10-01,2023,October,Government,United States of America,11,Scarlett 2i2,118,169,1859,1298,561
+2022-06-01,2022,June,Government,France,27,Scarlett 2i2,118,169,4563,3186,1377
+2023-06-01,2023,June,Small Business,Mexico,25,Arctis 7P+,104,149,3725,2600,1125
+2022-10-01,2022,October,Enterprise,Germany,8,Scarlett 2i2,118,169,1352,944,408
+2023-11-01,2023,November,Government,Canada,18,AudioBox USB 96 Studio,90,199,3582,1620,1962
+2023-12-01,2023,December,Government,Germany,15,Scarlett 2i2,118,169,2535,1770,765
+2023-03-01,2023,March,Government,Canada,24,Scarlett 2i2,118,169,4056,2832,1224
+2022-08-01,2022,August,Creator,Canada,14,MV7,174,199,2786,2436,350
+2022-06-01,2022,June,Government,Germany,25,Arctis 7P+,104,149,3725,2600,1125
+2023-12-01,2023,December,Creator,Germany,10,Scarlett 2i2,118,169,1690,1180,510
+2023-03-01,2023,March,Enterprise,Canada,18,Scarlett 2i2,118,169,3042,2124,918
+2022-10-01,2022,October,Government,Germany,30,Scarlett 2i2,118,169,5070,3540,1530
+2022-03-01,2022,March,Government,Canada,3,AudioBox USB 96 Studio,90,199,597,270,327
+2022-09-01,2022,September,Education,France,6,Scarlett 2i2,118,169,1014,708,306
+2023-10-01,2023,October,Government,Germany,22,NT1-A,160,229,5038,3520,1518
+2023-06-01,2023,June,Enterprise,Canada,16,Scarlett 2i2,118,169,2704,1888,816
+2023-11-01,2023,November,Small Business,United States of America,29,Scarlett 2i2,118,169,4901,3422,1479
+2023-12-01,2023,December,Government,Mexico,14,Scarlett 2i2,118,169,2366,1652,714
+2023-08-01,2023,August,Government,United States of America,28,AudioBox USB 96 Studio,90,199,5572,2520,3052
+2022-09-01,2022,September,Creator,Canada,28,Arctis 7P+,104,149,4172,2912,1260
+2023-05-01,2023,May,Small Business,United States of America,29,Scarlett 2i2,118,169,4901,3422,1479
+2023-11-01,2023,November,Government,United States of America,12,Arctis 7P+,104,149,1788,1248,540
+2023-06-01,2023,June,Government,Canada,11,Arctis 7P+,104,149,1639,1144,495
+2022-02-01,2022,February,Education,United States of America,29,Scarlett 2i2,118,169,4901,3422,1479
+2023-10-01,2023,October,Government,France,17,Scarlett 2i2,118,169,2873,2006,867
+2023-10-01,2023,October,Creator,France,14,Scarlett 2i2,118,169,2366,1652,714
+2023-05-01,2023,May,Creator,Mexico,27,NT1-A,160,229,6183,4320,1863
+2022-08-01,2022,August,Government,Mexico,17,Scarlett 2i2,118,169,2873,2006,867
+2022-10-01,2022,October,Education,United States of America,7,Scarlett 2i2,118,169,1183,826,357
+2023-05-01,2023,May,Government,Canada,8,MV7,174,199,1592,1392,200
+2022-02-01,2022,February,Small Business,United States of America,26,QuadCast S,97,139,3614,2522,1092
+2023-06-01,2023,June,Government,Mexico,15,QuadCast S,97,139,2085,1455,630
+2023-10-01,2023,October,Education,United States of America,12,Scarlett 2i2,118,169,2028,1416,612
+2022-02-01,2022,February,Government,France,20,Arctis 7P+,104,149,2980,2080,900
+2022-07-01,2022,July,Government,Canada,24,Scarlett 2i2,118,169,4056,2832,1224
+2022-05-01,2022,May,Government,Germany,28,NT1-A,160,229,6412,4480,1932
+2022-07-01,2022,July,Education,France,17,Arctis 7P+,104,149,2533,1768,765
+2022-05-01,2022,May,Creator,Canada,4,Arctis 7P+,104,149,596,416,180
+2022-09-01,2022,September,Government,France,15,QuadCast S,97,139,2085,1455,630
+2022-03-01,2022,March,Education,France,27,Arctis 7P+,104,149,4023,2808,1215
+2023-12-01,2023,December,Government,United States of America,6,MV7,174,199,1194,1044,150
+2023-06-01,2023,June,Creator,Mexico,6,AudioBox USB 96 Studio,90,199,1194,540,654
+2022-02-01,2022,February,Government,France,21,Scarlett 2i2,118,169,3549,2478,1071
+2023-08-01,2023,August,Enterprise,Canada,9,AudioBox USB 96 Studio,90,199,1791,810,981
+2022-06-01,2022,June,Small Business,United States of America,11,AudioBox USB 96 Studio,90,199,2189,990,1199
+2022-08-01,2022,August,Enterprise,France,17,MV7,174,199,3383,2958,425
+2023-11-01,2023,November,Small Business,France,13,Scarlett 2i2,118,169,2197,1534,663
+2023-12-01,2023,December,Government,United States of America,27,QuadCast S,97,139,3753,2619,1134
+2022-02-01,2022,February,Creator,Canada,9,Scarlett 2i2,118,169,1521,1062,459
+2023-09-01,2023,September,Government,Germany,19,Scarlett 2i2,118,169,3211,2242,969
+2023-06-01,2023,June,Creator,Canada,25,NT1-A,160,229,5725,4000,1725
+2023-04-01,2023,April,Government,United States of America,45,Scarlett 2i2,118,169,7605,5310,2295
+2023-08-01,2023,August,Small Business,Mexico,10,NT1-A,160,229,2290,1600,690
+2022-04-01,2022,April,Creator,United States of America,14,Arctis 7P+,104,149,2086,1456,630
+2023-03-01,2023,March,Education,Mexico,22,NT1-A,160,229,5038,3520,1518
+2022-03-01,2022,March,Education,United States of America,22,Arctis 7P+,104,149,3278,2288,990
+2023-01-01,2023,January,Education,Canada,4,AudioBox USB 96 Studio,90,199,796,360,436
+2022-03-01,2022,March,Small Business,United States of America,24,AudioBox USB 96 Studio,90,199,4776,2160,2616
+2022-10-01,2022,October,Enterprise,United States of America,7,NT1-A,160,229,1603,1120,483
+2022-11-01,2022,November,Small Business,United States of America,26,AudioBox USB 96 Studio,90,199,5174,2340,2834
+2023-03-01,2023,March,Small Business,France,25,Arctis 7P+,104,149,3725,2600,1125
+2023-03-01,2023,March,Small Business,Germany,3,Arctis 7P+,104,149,447,312,135
+2022-09-01,2022,September,Government,United States of America,7,AudioBox USB 96 Studio,90,199,1393,630,763
+2023-01-01,2023,January,Small Business,Mexico,26,Scarlett 2i2,118,169,4394,3068,1326
+2023-03-01,2023,March,Creator,France,20,AudioBox USB 96 Studio,90,199,3980,1800,2180
+2022-01-01,2022,January,Education,Germany,17,AudioBox USB 96 Studio,90,199,3383,1530,1853
+2023-05-01,2023,May,Education,France,28,AudioBox USB 96 Studio,90,199,5572,2520,3052
+2023-12-01,2023,December,Government,Germany,3,MV7,174,199,597,522,75
+2022-02-01,2022,February,Government,United States of America,27,Arctis 7P+,104,149,4023,2808,1215
+2023-05-01,2023,May,Government,Canada,3,Scarlett 2i2,118,169,507,354,153
+2023-03-01,2023,March,Education,Canada,20,NT1-A,160,229,4580,3200,1380
+2022-10-01,2022,October,Government,Mexico,17,Arctis 7P+,104,149,2533,1768,765
+2022-02-01,2022,February,Education,Mexico,16,Scarlett 2i2,118,169,2704,1888,816
+2023-10-01,2023,October,Creator,France,14,Arctis 7P+,104,149,2086,1456,630
+2023-10-01,2023,October,Government,Mexico,9,Scarlett 2i2,118,169,1521,1062,459
+2022-09-01,2022,September,Government,France,10,Scarlett 2i2,118,169,1690,1180,510
+2022-09-01,2022,September,Government,United States of America,4,Scarlett 2i2,118,169,676,472,204
+2022-10-01,2022,October,Government,Canada,29,NT1-A,160,229,6641,4640,2001
+2023-10-01,2023,October,Government,Canada,13,NT1-A,160,229,2977,2080,897
+2022-08-01,2022,August,Small Business,United States of America,18,QuadCast S,97,139,2502,1746,756
+2022-09-01,2022,September,Government,France,28,AudioBox USB 96 Studio,90,199,5572,2520,3052
+2022-10-01,2022,October,Creator,Mexico,4,Scarlett 2i2,118,169,676,472,204
+2022-11-01,2022,November,Government,Germany,22,Scarlett 2i2,118,169,3718,2596,1122
+2022-10-01,2022,October,Small Business,Canada,3,AudioBox USB 96 Studio,90,199,597,270,327
+2022-02-01,2022,February,Government,United States of America,12,MV7,174,199,2388,2088,300
+2022-08-01,2022,August,Government,United States of America,4,QuadCast S,97,139,556,388,168
+2023-04-01,2023,April,Government,France,6,QuadCast S,97,139,834,582,252
+2023-08-01,2023,August,Enterprise,Germany,28,MV7,174,199,5572,4872,700
+2022-06-01,2022,June,Enterprise,Germany,5,AudioBox USB 96 Studio,90,199,995,450,545
+2022-09-01,2022,September,Small Business,France,3,NT1-A,160,229,687,480,207
+2022-10-01,2022,October,Government,Mexico,17,Scarlett 2i2,118,169,2873,2006,867
+2023-07-01,2023,July,Creator,Germany,4,Scarlett 2i2,118,169,676,472,204
+2023-09-01,2023,September,Enterprise,Mexico,21,AudioBox USB 96 Studio,90,199,4179,1890,2289
+2023-05-01,2023,May,Government,Mexico,20,Arctis 7P+,104,149,2980,2080,900
+2023-03-01,2023,March,Government,Canada,13,QuadCast S,97,139,1807,1261,546
+2022-01-01,2022,January,Government,Mexico,5,NT1-A,160,229,1145,800,345
+2022-10-01,2022,October,Education,Canada,17,Scarlett 2i2,118,169,2873,2006,867
+2022-01-01,2022,January,Creator,Canada,9,Arctis 7P+,104,149,1341,936,405
+2023-01-01,2023,January,Creator,Germany,25,QuadCast S,97,139,3475,2425,1050
+2022-09-01,2022,September,Enterprise,Mexico,10,Arctis 7P+,104,149,1490,1040,450
+2022-02-01,2022,February,Government,France,15,Arctis 7P+,104,149,2235,1560,675
+2023-06-01,2023,June,Small Business,Mexico,25,Scarlett 2i2,118,169,4225,2950,1275
+2022-06-01,2022,June,Government,Canada,19,NT1-A,160,229,4351,3040,1311
+2022-10-01,2022,October,Enterprise,France,7,Scarlett 2i2,118,169,1183,826,357
+2022-07-01,2022,July,Government,United States of America,14,Scarlett 2i2,118,169,2366,1652,714
+2022-05-01,2022,May,Government,Germany,13,Scarlett 2i2,118,169,2197,1534,663
+2023-06-01,2023,June,Government,France,12,Arctis 7P+,104,149,1788,1248,540
+2022-04-01,2022,April,Enterprise,Canada,1,AudioBox USB 96 Studio,90,199,199,90,109
+2022-08-01,2022,August,Education,Germany,29,Scarlett 2i2,118,169,4901,3422,1479
+2023-01-01,2023,January,Government,Germany,8,NT1-A,160,229,1832,1280,552
+2022-10-01,2022,October,Government,France,14,NT1-A,160,229,3206,2240,966
+2023-06-01,2023,June,Education,Mexico,25,NT1-A,160,229,5725,4000,1725
+2022-06-01,2022,June,Creator,Germany,22,Scarlett 2i2,118,169,3718,2596,1122
+2023-04-01,2023,April,Enterprise,United States of America,35,MV7,174,199,6965,6090,875
+2022-06-01,2022,June,Government,Mexico,21,AudioBox USB 96 Studio,90,199,4179,1890,2289
+2023-06-01,2023,June,Government,Mexico,9,Scarlett 2i2,118,169,1521,1062,459
+2022-09-01,2022,September,Education,United States of America,29,Scarlett 2i2,118,169,4901,3422,1479
+2023-12-01,2023,December,Small Business,Mexico,6,Arctis 7P+,104,149,894,624,270
+2023-03-01,2023,March,Small Business,Mexico,11,Arctis 7P+,104,149,1639,1144,495
+2023-08-01,2023,August,Small Business,United States of America,25,QuadCast S,97,139,3475,2425,1050
+2022-12-01,2022,December,Creator,France,3,Arctis 7P+,104,149,447,312,135
+2022-01-01,2022,January,Small Business,Canada,22,NT1-A,160,229,5038,3520,1518
+2022-03-01,2022,March,Small Business,Canada,16,Scarlett 2i2,118,169,2704,1888,816
+2022-04-01,2022,April,Small Business,Germany,9,NT1-A,160,229,2061,1440,621
+2023-12-01,2023,December,Government,Germany,15,QuadCast S,97,139,2085,1455,630
+2022-08-01,2022,August,Enterprise,Germany,27,MV7,174,199,5373,4698,675
+2022-07-01,2022,July,Education,Canada,10,MV7,174,199,1990,1740,250
+2022-09-01,2022,September,Enterprise,France,10,MV7,174,199,1990,1740,250
+2023-02-01,2023,February,Government,United States of America,13,NT1-A,160,229,2977,2080,897
+2022-12-01,2022,December,Government,Canada,18,Scarlett 2i2,118,169,3042,2124,918
+2022-08-01,2022,August,Creator,United States of America,24,Arctis 7P+,104,149,3576,2496,1080
+2022-06-01,2022,June,Government,United States of America,6,Scarlett 2i2,118,169,1014,708,306
+2022-10-01,2022,October,Government,France,21,Arctis 7P+,104,149,3129,2184,945
+2023-10-01,2023,October,Creator,United States of America,29,Arctis 7P+,104,149,4321,3016,1305
+2023-02-01,2023,February,Government,Mexico,3,Scarlett 2i2,118,169,507,354,153
+2022-02-01,2022,February,Education,United States of America,26,Arctis 7P+,104,149,3874,2704,1170
+2023-10-01,2023,October,Government,Mexico,27,QuadCast S,97,139,3753,2619,1134
+2022-01-01,2022,January,Enterprise,France,5,MV7,174,199,995,870,125
+2022-06-01,2022,June,Education,Germany,23,Scarlett 2i2,118,169,3887,2714,1173
+2023-07-01,2023,July,Education,Canada,16,Arctis 7P+,104,149,2384,1664,720
+2023-01-01,2023,January,Government,United States of America,10,NT1-A,160,229,2290,1600,690
+2023-12-01,2023,December,Education,Mexico,22,NT1-A,160,229,5038,3520,1518
+2022-11-01,2022,November,Enterprise,Germany,25,NT1-A,160,229,5725,4000,1725
+2022-02-01,2022,February,Education,France,2,Scarlett 2i2,118,169,338,236,102
+2023-11-01,2023,November,Creator,Germany,23,NT1-A,160,229,5267,3680,1587
+2023-10-01,2023,October,Government,United States of America,16,NT1-A,160,229,3664,2560,1104
+2022-11-01,2022,November,Government,Canada,29,QuadCast S,97,139,4031,2813,1218
+2023-12-01,2023,December,Government,Canada,16,QuadCast S,97,139,2224,1552,672
+2023-04-01,2023,April,Education,Germany,5,AudioBox USB 96 Studio,90,199,995,450,545
+2022-04-01,2022,April,Government,Canada,8,NT1-A,160,229,1832,1280,552
+2023-10-01,2023,October,Creator,Mexico,4,Arctis 7P+,104,149,596,416,180
+2022-10-01,2022,October,Government,France,18,NT1-A,160,229,4122,2880,1242
+2022-01-01,2022,January,Creator,United States of America,28,Arctis 7P+,104,149,4172,2912,1260
+2023-08-01,2023,August,Education,Mexico,20,Scarlett 2i2,118,169,3380,2360,1020
+2022-01-01,2022,January,Enterprise,Germany,25,Arctis 7P+,104,149,3725,2600,1125
+2023-02-01,2023,February,Government,Canada,22,Arctis 7P+,104,149,3278,2288,990
+2023-08-01,2023,August,Government,Canada,18,NT1-A,160,229,4122,2880,1242
+2022-04-01,2022,April,Government,United States of America,22,AudioBox USB 96 Studio,90,199,4378,1980,2398
+2022-08-01,2022,August,Government,Germany,27,AudioBox USB 96 Studio,90,199,5373,2430,2943
+2023-12-01,2023,December,Creator,United States of America,9,AudioBox USB 96 Studio,90,199,1791,810,981
+2023-06-01,2023,June,Government,France,19,Arctis 7P+,104,149,2831,1976,855
+2023-07-01,2023,July,Creator,Canada,40,Scarlett 2i2,118,169,6760,4720,2040
+2023-10-01,2023,October,Small Business,United States of America,10,QuadCast S,97,139,1390,970,420
+2023-07-01,2023,July,Government,Mexico,17,Arctis 7P+,104,149,2533,1768,765
+2023-10-01,2023,October,Small Business,France,22,NT1-A,160,229,5038,3520,1518
+2023-04-01,2023,April,Creator,France,17,QuadCast S,97,139,2363,1649,714
+2022-05-01,2022,May,Government,United States of America,4,Scarlett 2i2,118,169,676,472,204
+2022-02-01,2022,February,Small Business,Canada,20,QuadCast S,97,139,2780,1940,840
+2022-12-01,2022,December,Enterprise,France,15,MV7,174,199,2985,2610,375
+2022-02-01,2022,February,Government,Germany,18,NT1-A,160,229,4122,2880,1242
+2022-04-01,2022,April,Creator,France,1,Arctis 7P+,104,149,149,104,45
+2022-02-01,2022,February,Government,Canada,17,NT1-A,160,229,3893,2720,1173
+2023-12-01,2023,December,Enterprise,United States of America,28,Scarlett 2i2,118,169,4732,3304,1428
+2022-04-01,2022,April,Enterprise,Germany,24,MV7,174,199,4776,4176,600
+2022-07-01,2022,July,Government,United States of America,6,QuadCast S,97,139,834,582,252
+2022-06-01,2022,June,Education,Germany,23,QuadCast S,97,139,3197,2231,966
+2023-03-01,2023,March,Government,France,15,QuadCast S,97,139,2085,1455,630
+2022-02-01,2022,February,Government,Mexico,10,Arctis 7P+,104,149,1490,1040,450
+2023-09-01,2023,September,Government,Germany,19,Arctis 7P+,104,149,2831,1976,855
+2023-07-01,2023,July,Government,United States of America,4,QuadCast S,97,139,556,388,168
+2023-08-01,2023,August,Education,United States of America,22,Scarlett 2i2,118,169,3718,2596,1122
+2022-02-01,2022,February,Small Business,United States of America,4,AudioBox USB 96 Studio,90,199,796,360,436
+2023-01-01,2023,January,Enterprise,United States of America,6,Arctis 7P+,104,149,894,624,270
+2023-04-01,2023,April,Enterprise,France,42,MV7,174,199,8358,7308,1050
+2023-09-01,2023,September,Government,Mexico,17,Arctis 7P+,104,149,2533,1768,765
+2022-11-01,2022,November,Government,Mexico,11,QuadCast S,97,139,1529,1067,462
+2023-01-01,2023,January,Government,France,14,NT1-A,160,229,3206,2240,966
+2022-11-01,2022,November,Government,Germany,10,MV7,174,199,1990,1740,250
+2023-08-01,2023,August,Government,Germany,10,AudioBox USB 96 Studio,90,199,1990,900,1090
+2023-08-01,2023,August,Creator,Germany,26,Arctis 7P+,104,149,3874,2704,1170
+2023-05-01,2023,May,Government,France,17,NT1-A,160,229,3893,2720,1173
+2022-10-01,2022,October,Government,Canada,14,QuadCast S,97,139,1946,1358,588
+2023-01-01,2023,January,Education,France,40,AudioBox USB 96 Studio,90,199,7960,3600,4360
+2023-10-01,2023,October,Small Business,Germany,20,MV7,174,199,3980,3480,500
+2022-06-01,2022,June,Government,United States of America,29,Scarlett 2i2,118,169,4901,3422,1479
+2022-11-01,2022,November,Creator,Germany,18,Scarlett 2i2,118,169,3042,2124,918
+2022-05-01,2022,May,Education,Germany,28,AudioBox USB 96 Studio,90,199,5572,2520,3052
+2022-06-01,2022,June,Creator,Mexico,7,Scarlett 2i2,118,169,1183,826,357
+2023-04-01,2023,April,Government,Mexico,25,Scarlett 2i2,118,169,4225,2950,1275
+2022-04-01,2022,April,Creator,Canada,3,MV7,174,199,597,522,75
+2023-03-01,2023,March,Small Business,United States of America,30,Arctis 7P+,104,149,4470,3120,1350
+2023-06-01,2023,June,Government,Germany,23,AudioBox USB 96 Studio,90,199,4577,2070,2507
+2023-04-01,2023,April,Small Business,Mexico,16,Scarlett 2i2,118,169,2704,1888,816
+2023-01-01,2023,January,Creator,Mexico,23,NT1-A,160,229,5267,3680,1587
+2023-08-01,2023,August,Education,France,21,Scarlett 2i2,118,169,3549,2478,1071
+2022-11-01,2022,November,Government,Mexico,27,MV7,174,199,5373,4698,675
+2022-09-01,2022,September,Creator,Mexico,10,QuadCast S,97,139,1390,970,420
+2022-04-01,2022,April,Government,Mexico,26,Scarlett 2i2,118,169,4394,3068,1326
+2022-01-01,2022,January,Government,United States of America,17,AudioBox USB 96 Studio,90,199,3383,1530,1853
+2022-02-01,2022,February,Enterprise,United States of America,23,NT1-A,160,229,5267,3680,1587
+2023-01-01,2023,January,Government,France,40,Scarlett 2i2,118,169,6760,4720,2040
+2022-06-01,2022,June,Enterprise,Germany,1,Scarlett 2i2,118,169,169,118,51
+2023-12-01,2023,December,Small Business,France,9,Arctis 7P+,104,149,1341,936,405
+2023-10-01,2023,October,Government,Canada,27,Arctis 7P+,104,149,4023,2808,1215
+2022-10-01,2022,October,Small Business,United States of America,23,AudioBox USB 96 Studio,90,199,4577,2070,2507
+2022-05-01,2022,May,Government,Mexico,0,NT1-A,160,229,0,0,0
+2023-06-01,2023,June,Education,Germany,9,QuadCast S,97,139,1251,873,378
+2023-12-01,2023,December,Government,United States of America,3,MV7,174,199,597,522,75
+2022-03-01,2022,March,Creator,Canada,9,Scarlett 2i2,118,169,1521,1062,459
+2022-06-01,2022,June,Creator,France,6,Scarlett 2i2,118,169,1014,708,306
+2022-07-01,2022,July,Government,Mexico,28,QuadCast S,97,139,3892,2716,1176
+2023-03-01,2023,March,Enterprise,France,24,Scarlett 2i2,118,169,4056,2832,1224
+2023-07-01,2023,July,Government,Germany,7,NT1-A,160,229,1603,1120,483
+2023-11-01,2023,November,Government,Canada,11,Arctis 7P+,104,149,1639,1144,495
+2023-12-01,2023,December,Small Business,Germany,13,AudioBox USB 96 Studio,90,199,2587,1170,1417
+2023-12-01,2023,December,Enterprise,Mexico,11,NT1-A,160,229,2519,1760,759
+2023-05-01,2023,May,Creator,Canada,21,QuadCast S,97,139,2919,2037,882
+2022-05-01,2022,May,Small Business,Canada,7,NT1-A,160,229,1603,1120,483
+2022-11-01,2022,November,Government,France,22,MV7,174,199,4378,3828,550
+2023-04-01,2023,April,Education,Mexico,26,AudioBox USB 96 Studio,90,199,5174,2340,2834
+2022-01-01,2022,January,Government,Canada,28,QuadCast S,97,139,3892,2716,1176
+2022-04-01,2022,April,Government,Mexico,28,AudioBox USB 96 Studio,90,199,5572,2520,3052
+2022-01-01,2022,January,Government,Canada,25,Scarlett 2i2,118,169,4225,2950,1275
+2022-06-01,2022,June,Small Business,Canada,15,QuadCast S,97,139,2085,1455,630
+2023-04-01,2023,April,Small Business,Germany,14,Scarlett 2i2,118,169,2366,1652,714
+2023-10-01,2023,October,Government,Mexico,14,QuadCast S,97,139,1946,1358,588
+2023-10-01,2023,October,Government,Canada,13,Scarlett 2i2,118,169,2197,1534,663
+2023-06-01,2023,June,Education,Canada,28,QuadCast S,97,139,3892,2716,1176
+2023-06-01,2023,June,Government,United States of America,6,Scarlett 2i2,118,169,1014,708,306
+2023-01-01,2023,January,Education,United States of America,6,AudioBox USB 96 Studio,90,199,1194,540,654
+2023-12-01,2023,December,Enterprise,France,13,Scarlett 2i2,118,169,2197,1534,663
+2023-01-01,2023,January,Government,United States of America,11,MV7,174,199,2189,1914,275
+2023-08-01,2023,August,Small Business,Germany,19,NT1-A,160,229,4351,3040,1311
+2023-10-01,2023,October,Government,Germany,2,Scarlett 2i2,118,169,338,236,102
+2023-04-01,2023,April,Education,United States of America,37,Scarlett 2i2,118,169,6253,4366,1887
+2023-06-01,2023,June,Education,Canada,28,MV7,174,199,5572,4872,700
+2022-10-01,2022,October,Education,Germany,20,Scarlett 2i2,118,169,3380,2360,1020
+2022-11-01,2022,November,Government,Germany,23,QuadCast S,97,139,3197,2231,966
+2022-11-01,2022,November,Enterprise,Mexico,17,NT1-A,160,229,3893,2720,1173
+2023-05-01,2023,May,Creator,Germany,9,QuadCast S,97,139,1251,873,378
+2022-07-01,2022,July,Education,Mexico,24,Arctis 7P+,104,149,3576,2496,1080
+2022-10-01,2022,October,Government,Germany,12,NT1-A,160,229,2748,1920,828
+2022-10-01,2022,October,Enterprise,Mexico,22,AudioBox USB 96 Studio,90,199,4378,1980,2398
+2022-12-01,2022,December,Government,Germany,6,AudioBox USB 96 Studio,90,199,1194,540,654
+2022-06-01,2022,June,Creator,Canada,24,MV7,174,199,4776,4176,600
+2022-12-01,2022,December,Small Business,United States of America,8,QuadCast S,97,139,1112,776,336
+2023-12-01,2023,December,Government,Canada,29,MV7,174,199,5771,5046,725
+2023-11-01,2023,November,Government,Mexico,13,AudioBox USB 96 Studio,90,199,2587,1170,1417
+2023-11-01,2023,November,Government,Germany,27,AudioBox USB 96 Studio,90,199,5373,2430,2943
+2023-10-01,2023,October,Creator,Germany,5,Arctis 7P+,104,149,745,520,225
+2022-11-01,2022,November,Education,Germany,10,Arctis 7P+,104,149,1490,1040,450
+2023-11-01,2023,November,Education,Canada,27,MV7,174,199,5373,4698,675
+2022-12-01,2022,December,Government,France,21,Scarlett 2i2,118,169,3549,2478,1071
+2022-06-01,2022,June,Enterprise,Canada,30,AudioBox USB 96 Studio,90,199,5970,2700,3270
+2023-07-01,2023,July,Small Business,United States of America,25,AudioBox USB 96 Studio,90,199,4975,2250,2725
+2023-12-01,2023,December,Education,France,21,Arctis 7P+,104,149,3129,2184,945
+2022-12-01,2022,December,Government,Mexico,19,QuadCast S,97,139,2641,1843,798
+2023-09-01,2023,September,Education,Germany,8,Scarlett 2i2,118,169,1352,944,408
+2023-06-01,2023,June,Small Business,Germany,7,MV7,174,199,1393,1218,175
+2023-10-01,2023,October,Education,Canada,16,QuadCast S,97,139,2224,1552,672
+2023-04-01,2023,April,Small Business,United States of America,23,NT1-A,160,229,5267,3680,1587
+2022-06-01,2022,June,Government,United States of America,30,QuadCast S,97,139,4170,2910,1260
+2022-01-01,2022,January,Government,Germany,16,NT1-A,160,229,3664,2560,1104
+2023-12-01,2023,December,Small Business,Canada,19,Scarlett 2i2,118,169,3211,2242,969
+2023-06-01,2023,June,Education,Germany,9,MV7,174,199,1791,1566,225
+2023-02-01,2023,February,Government,France,13,Scarlett 2i2,118,169,2197,1534,663
+2023-05-01,2023,May,Government,Germany,11,Scarlett 2i2,118,169,1859,1298,561
+2023-01-01,2023,January,Small Business,Germany,8,Scarlett 2i2,118,169,1352,944,408
+2023-02-01,2023,February,Small Business,United States of America,28,QuadCast S,97,139,3892,2716,1176
+2023-09-01,2023,September,Enterprise,Germany,21,AudioBox USB 96 Studio,90,199,4179,1890,2289
+2023-10-01,2023,October,Government,France,22,AudioBox USB 96 Studio,90,199,4378,1980,2398
+2023-09-01,2023,September,Small Business,Canada,21,QuadCast S,97,139,2919,2037,882
+2023-02-01,2023,February,Creator,Mexico,7,MV7,174,199,1393,1218,175
+2022-06-01,2022,June,Government,France,11,NT1-A,160,229,2519,1760,759
+2023-08-01,2023,August,Government,Germany,16,Scarlett 2i2,118,169,2704,1888,816
+2023-06-01,2023,June,Government,Germany,10,AudioBox USB 96 Studio,90,199,1990,900,1090
+2022-12-01,2022,December,Government,Canada,16,NT1-A,160,229,3664,2560,1104
+2023-10-01,2023,October,Government,Germany,4,Scarlett 2i2,118,169,676,472,204
+2023-03-01,2023,March,Government,Mexico,29,QuadCast S,97,139,4031,2813,1218
+2023-10-01,2023,October,Creator,Canada,13,Scarlett 2i2,118,169,2197,1534,663
+2023-07-01,2023,July,Government,Mexico,23,NT1-A,160,229,5267,3680,1587
+2023-10-01,2023,October,Small Business,Mexico,6,Arctis 7P+,104,149,894,624,270
+2022-06-01,2022,June,Government,Canada,16,Arctis 7P+,104,149,2384,1664,720
+2022-11-01,2022,November,Small Business,Mexico,26,AudioBox USB 96 Studio,90,199,5174,2340,2834
+2023-06-01,2023,June,Government,Canada,26,AudioBox USB 96 Studio,90,199,5174,2340,2834
+2023-08-01,2023,August,Government,United States of America,28,QuadCast S,97,139,3892,2716,1176
+2022-07-01,2022,July,Enterprise,France,10,NT1-A,160,229,2290,1600,690
+2023-11-01,2023,November,Government,Canada,7,Scarlett 2i2,118,169,1183,826,357
+2023-07-01,2023,July,Creator,France,24,Scarlett 2i2,118,169,4056,2832,1224
+2023-02-01,2023,February,Government,France,3,NT1-A,160,229,687,480,207
+2023-06-01,2023,June,Enterprise,Canada,16,QuadCast S,97,139,2224,1552,672
+2023-12-01,2023,December,Education,Germany,7,NT1-A,160,229,1603,1120,483
+2023-08-01,2023,August,Government,France,27,Scarlett 2i2,118,169,4563,3186,1377
+2023-01-01,2023,January,Government,France,25,MV7,174,199,4975,4350,625
+2022-06-01,2022,June,Government,Germany,8,Scarlett 2i2,118,169,1352,944,408
+2022-08-01,2022,August,Small Business,Germany,27,NT1-A,160,229,6183,4320,1863
+2023-12-01,2023,December,Education,Canada,23,MV7,174,199,4577,4002,575
+2022-01-01,2022,January,Government,United States of America,9,Scarlett 2i2,118,169,1521,1062,459
+2023-07-01,2023,July,Government,Germany,13,AudioBox USB 96 Studio,90,199,2587,1170,1417
+2022-05-01,2022,May,Creator,Mexico,11,QuadCast S,97,139,1529,1067,462
+2023-10-01,2023,October,Government,Germany,29,QuadCast S,97,139,4031,2813,1218
+2023-12-01,2023,December,Government,Mexico,12,QuadCast S,97,139,1668,1164,504
+2022-06-01,2022,June,Government,United States of America,29,NT1-A,160,229,6641,4640,2001
+2022-03-01,2022,March,Government,Mexico,14,QuadCast S,97,139,1946,1358,588
+2022-05-01,2022,May,Government,Mexico,3,MV7,174,199,597,522,75
+2022-08-01,2022,August,Government,Canada,19,NT1-A,160,229,4351,3040,1311
+2022-01-01,2022,January,Small Business,United States of America,23,NT1-A,160,229,5267,3680,1587
+2023-01-01,2023,January,Creator,France,17,QuadCast S,97,139,2363,1649,714
+2022-12-01,2022,December,Small Business,Germany,3,NT1-A,160,229,687,480,207
+2022-05-01,2022,May,Government,Canada,9,AudioBox USB 96 Studio,90,199,1791,810,981
+2023-12-01,2023,December,Enterprise,Mexico,11,Scarlett 2i2,118,169,1859,1298,561
+2023-03-01,2023,March,Creator,Mexico,5,AudioBox USB 96 Studio,90,199,995,450,545
+2023-03-01,2023,March,Education,France,25,NT1-A,160,229,5725,4000,1725
+2022-06-01,2022,June,Creator,United States of America,18,Scarlett 2i2,118,169,3042,2124,918
+2022-07-01,2022,July,Government,United States of America,14,MV7,174,199,2786,2436,350
+2023-10-01,2023,October,Creator,Canada,13,MV7,174,199,2587,2262,325
+2023-05-01,2023,May,Education,Canada,13,AudioBox USB 96 Studio,90,199,2587,1170,1417
+2022-08-01,2022,August,Small Business,Mexico,24,NT1-A,160,229,5496,3840,1656
+2023-10-01,2023,October,Small Business,Mexico,6,NT1-A,160,229,1374,960,414
+2022-01-01,2022,January,Government,United States of America,25,QuadCast S,97,139,3475,2425,1050
+2023-02-01,2023,February,Small Business,Germany,27,QuadCast S,97,139,3753,2619,1134
+2023-07-01,2023,July,Government,France,14,NT1-A,160,229,3206,2240,966
+2023-02-01,2023,February,Creator,United States of America,19,MV7,174,199,3781,3306,475
+2022-05-01,2022,May,Enterprise,France,7,MV7,174,199,1393,1218,175
+2022-05-01,2022,May,Small Business,Mexico,1,Scarlett 2i2,118,169,169,118,51
+2022-09-01,2022,September,Government,Mexico,18,Scarlett 2i2,118,169,3042,2124,918
+2022-12-01,2022,December,Government,France,13,QuadCast S,97,139,1807,1261,546
+2023-02-01,2023,February,Government,Mexico,19,Arctis 7P+,104,149,2831,1976,855
+2023-08-01,2023,August,Government,Mexico,6,AudioBox USB 96 Studio,90,199,1194,540,654
+2022-02-01,2022,February,Small Business,France,5,QuadCast S,97,139,695,485,210
+2023-07-01,2023,July,Enterprise,Canada,27,NT1-A,160,229,6183,4320,1863
+2022-04-01,2022,April,Government,Canada,10,Arctis 7P+,104,149,1490,1040,450
+2022-02-01,2022,February,Creator,Canada,9,MV7,174,199,1791,1566,225
+2023-04-01,2023,April,Government,Mexico,10,NT1-A,160,229,2290,1600,690
+2022-09-01,2022,September,Government,Canada,6,QuadCast S,97,139,834,582,252
+2023-06-01,2023,June,Education,France,22,QuadCast S,97,139,3058,2134,924
+2022-12-01,2022,December,Creator,Canada,9,MV7,174,199,1791,1566,225
+2023-09-01,2023,September,Government,United States of America,11,Scarlett 2i2,118,169,1859,1298,561
+2022-02-01,2022,February,Small Business,Germany,20,QuadCast S,97,139,2780,1940,840
+2023-07-01,2023,July,Education,Germany,5,QuadCast S,97,139,695,485,210
+2023-10-01,2023,October,Education,United States of America,12,QuadCast S,97,139,1668,1164,504
+2022-12-01,2022,December,Government,France,10,AudioBox USB 96 Studio,90,199,1990,900,1090
+2022-10-01,2022,October,Government,Mexico,3,Arctis 7P+,104,149,447,312,135
+2022-03-01,2022,March,Government,Mexico,25,MV7,174,199,4975,4350,625
+2022-06-01,2022,June,Small Business,Germany,29,MV7,174,199,5771,5046,725
+2022-10-01,2022,October,Government,Canada,14,Scarlett 2i2,118,169,2366,1652,714
+2023-04-01,2023,April,Small Business,France,18,NT1-A,160,229,4122,2880,1242
+2023-08-01,2023,August,Creator,United States of America,21,Arctis 7P+,104,149,3129,2184,945
+2023-06-01,2023,June,Creator,United States of America,11,Scarlett 2i2,118,169,1859,1298,561
+2022-02-01,2022,February,Government,Germany,16,AudioBox USB 96 Studio,90,199,3184,1440,1744
+2022-01-01,2022,January,Government,France,20,QuadCast S,97,139,2780,1940,840
+2023-03-01,2023,March,Government,Mexico,12,MV7,174,199,2388,2088,300
+2022-10-01,2022,October,Government,Germany,30,NT1-A,160,229,6870,4800,2070
+2023-10-01,2023,October,Small Business,Canada,15,QuadCast S,97,139,2085,1455,630
+2023-05-01,2023,May,Small Business,France,9,Scarlett 2i2,118,169,1521,1062,459
+2022-06-01,2022,June,Enterprise,Mexico,25,Scarlett 2i2,118,169,4225,2950,1275
+2022-12-01,2022,December,Education,Mexico,4,Scarlett 2i2,118,169,676,472,204
+2022-02-01,2022,February,Creator,France,23,MV7,174,199,4577,4002,575
+2022-12-01,2022,December,Enterprise,United States of America,24,AudioBox USB 96 Studio,90,199,4776,2160,2616
+2022-09-01,2022,September,Government,Germany,18,NT1-A,160,229,4122,2880,1242
+2023-04-01,2023,April,Government,Germany,12,NT1-A,160,229,2748,1920,828
+2022-08-01,2022,August,Government,Canada,1,Arctis 7P+,104,149,149,104,45
+2022-08-01,2022,August,Government,United States of America,27,Scarlett 2i2,118,169,4563,3186,1377
+2022-10-01,2022,October,Government,United States of America,30,NT1-A,160,229,6870,4800,2070
+2023-12-01,2023,December,Government,Canada,16,AudioBox USB 96 Studio,90,199,3184,1440,1744
+2022-03-01,2022,March,Enterprise,Germany,3,NT1-A,160,229,687,480,207
+2023-10-01,2023,October,Education,Mexico,20,Scarlett 2i2,118,169,3380,2360,1020
+2023-10-01,2023,October,Government,United States of America,11,Arctis 7P+,104,149,1639,1144,495
+2022-10-01,2022,October,Government,Canada,12,Arctis 7P+,104,149,1788,1248,540
+2023-04-01,2023,April,Government,Germany,13,Scarlett 2i2,118,169,2197,1534,663
+2023-06-01,2023,June,Small Business,United States of America,10,Scarlett 2i2,118,169,1690,1180,510
+2022-07-01,2022,July,Creator,Canada,30,Scarlett 2i2,118,169,5070,3540,1530
+2023-11-01,2023,November,Education,Mexico,28,MV7,174,199,5572,4872,700
+2022-10-01,2022,October,Creator,United States of America,4,Scarlett 2i2,118,169,676,472,204
+2022-12-01,2022,December,Creator,Germany,18,Arctis 7P+,104,149,2682,1872,810
+2022-08-01,2022,August,Government,France,5,AudioBox USB 96 Studio,90,199,995,450,545
+2022-03-01,2022,March,Government,France,7,MV7,174,199,1393,1218,175
+2022-02-01,2022,February,Creator,United States of America,15,Scarlett 2i2,118,169,2535,1770,765
+2023-12-01,2023,December,Small Business,France,9,AudioBox USB 96 Studio,90,199,1791,810,981
+2022-03-01,2022,March,Government,United States of America,29,Scarlett 2i2,118,169,4901,3422,1479
+2023-07-01,2023,July,Creator,Mexico,6,Scarlett 2i2,118,169,1014,708,306
+2023-10-01,2023,October,Government,Germany,29,AudioBox USB 96 Studio,90,199,5771,2610,3161
+2022-05-01,2022,May,Education,France,9,Scarlett 2i2,118,169,1521,1062,459
+2023-03-01,2023,March,Government,Germany,3,QuadCast S,97,139,417,291,126
+2023-06-01,2023,June,Enterprise,Mexico,7,QuadCast S,97,139,973,679,294
+2022-10-01,2022,October,Education,France,22,Scarlett 2i2,118,169,3718,2596,1122
+2023-03-01,2023,March,Government,United States of America,18,MV7,174,199,3582,3132,450
+2022-02-01,2022,February,Enterprise,Canada,5,NT1-A,160,229,1145,800,345
+2022-02-01,2022,February,Enterprise,France,7,Scarlett 2i2,118,169,1183,826,357
+2022-05-01,2022,May,Government,Canada,15,Scarlett 2i2,118,169,2535,1770,765
+2022-01-01,2022,January,Enterprise,Canada,25,MV7,174,199,4975,4350,625
+2023-04-01,2023,April,Creator,Mexico,19,QuadCast S,97,139,2641,1843,798
+2022-02-01,2022,February,Small Business,Germany,8,MV7,174,199,1592,1392,200
+2023-10-01,2023,October,Government,France,20,NT1-A,160,229,4580,3200,1380
+2022-10-01,2022,October,Enterprise,Germany,8,AudioBox USB 96 Studio,90,199,1592,720,872
+2022-05-01,2022,May,Enterprise,United States of America,10,MV7,174,199,1990,1740,250
+2022-12-01,2022,December,Enterprise,Germany,9,MV7,174,199,1791,1566,225
+2023-03-01,2023,March,Government,Mexico,11,Scarlett 2i2,118,169,1859,1298,561
+2022-06-01,2022,June,Government,Germany,11,AudioBox USB 96 Studio,90,199,2189,990,1199
+2023-06-01,2023,June,Government,Mexico,10,Arctis 7P+,104,149,1490,1040,450
+2023-06-01,2023,June,Government,United States of America,29,Arctis 7P+,104,149,4321,3016,1305
+2023-08-01,2023,August,Government,Mexico,16,QuadCast S,97,139,2224,1552,672
+2022-05-01,2022,May,Government,United States of America,11,QuadCast S,97,139,1529,1067,462
+2022-07-01,2022,July,Creator,Mexico,28,Scarlett 2i2,118,169,4732,3304,1428
+2023-11-01,2023,November,Enterprise,Germany,6,QuadCast S,97,139,834,582,252
+2023-02-01,2023,February,Creator,Canada,19,MV7,174,199,3781,3306,475
+2023-08-01,2023,August,Small Business,France,16,NT1-A,160,229,3664,2560,1104
+2022-06-01,2022,June,Government,France,18,NT1-A,160,229,4122,2880,1242
+2023-06-01,2023,June,Government,United States of America,13,NT1-A,160,229,2977,2080,897
+2023-06-01,2023,June,Small Business,Canada,11,Scarlett 2i2,118,169,1859,1298,561
+2023-05-01,2023,May,Education,United States of America,8,AudioBox USB 96 Studio,90,199,1592,720,872
+2022-03-01,2022,March,Small Business,Mexico,19,AudioBox USB 96 Studio,90,199,3781,1710,2071
+2023-01-01,2023,January,Government,Mexico,15,AudioBox USB 96 Studio,90,199,2985,1350,1635
+2023-08-01,2023,August,Government,Germany,4,QuadCast S,97,139,556,388,168
+2022-02-01,2022,February,Government,Canada,11,Scarlett 2i2,118,169,1859,1298,561
+2022-07-01,2022,July,Creator,France,0,Scarlett 2i2,118,169,0,0,0
+2022-07-01,2022,July,Enterprise,United States of America,11,NT1-A,160,229,2519,1760,759
+2022-11-01,2022,November,Government,United States of America,3,MV7,174,199,597,522,75
+2023-09-01,2023,September,Government,Canada,4,NT1-A,160,229,916,640,276
+2023-10-01,2023,October,Government,Germany,4,QuadCast S,97,139,556,388,168
+2022-02-01,2022,February,Government,Mexico,29,NT1-A,160,229,6641,4640,2001
+2022-10-01,2022,October,Creator,Mexico,4,MV7,174,199,796,696,100
+2022-02-01,2022,February,Creator,France,12,Scarlett 2i2,118,169,2028,1416,612
+2023-12-01,2023,December,Small Business,United States of America,14,Arctis 7P+,104,149,2086,1456,630
+2023-11-01,2023,November,Creator,United States of America,27,NT1-A,160,229,6183,4320,1863
+2022-12-01,2022,December,Education,Canada,22,Scarlett 2i2,118,169,3718,2596,1122
+2023-06-01,2023,June,Small Business,United States of America,10,MV7,174,199,1990,1740,250
+2023-04-01,2023,April,Creator,Canada,35,Arctis 7P+,104,149,5215,3640,1575
+2022-03-01,2022,March,Education,Mexico,24,Arctis 7P+,104,149,3576,2496,1080
+2023-02-01,2023,February,Enterprise,France,18,AudioBox USB 96 Studio,90,199,3582,1620,1962
+2022-11-01,2022,November,Education,Mexico,19,Arctis 7P+,104,149,2831,1976,855
+2023-10-01,2023,October,Government,Germany,2,AudioBox USB 96 Studio,90,199,398,180,218
+2023-06-01,2023,June,Education,France,22,MV7,174,199,4378,3828,550
+2022-07-01,2022,July,Creator,Germany,13,Scarlett 2i2,118,169,2197,1534,663
+2022-12-01,2022,December,Government,United States of America,20,Scarlett 2i2,118,169,3380,2360,1020
+2022-06-01,2022,June,Government,Germany,14,Arctis 7P+,104,149,2086,1456,630
+2022-06-01,2022,June,Creator,France,8,MV7,174,199,1592,1392,200
+2023-03-01,2023,March,Small Business,Canada,9,Arctis 7P+,104,149,1341,936,405
+2022-10-01,2022,October,Government,Canada,29,MV7,174,199,5771,5046,725
+2023-11-01,2023,November,Enterprise,Mexico,9,QuadCast S,97,139,1251,873,378
+2022-09-01,2022,September,Government,Mexico,7,NT1-A,160,229,1603,1120,483
+2022-09-01,2022,September,Creator,France,22,QuadCast S,97,139,3058,2134,924
+2022-02-01,2022,February,Enterprise,Canada,17,AudioBox USB 96 Studio,90,199,3383,1530,1853
+2022-10-01,2022,October,Government,Canada,12,Scarlett 2i2,118,169,2028,1416,612
+2022-02-01,2022,February,Small Business,Mexico,3,MV7,174,199,597,522,75
+2023-06-01,2023,June,Government,Germany,23,QuadCast S,97,139,3197,2231,966
+2022-06-01,2022,June,Education,Mexico,24,QuadCast S,97,139,3336,2328,1008
+2023-01-01,2023,January,Enterprise,France,20,Arctis 7P+,104,149,2980,2080,900
+2022-02-01,2022,February,Creator,Mexico,18,MV7,174,199,3582,3132,450
+2023-02-01,2023,February,Education,Germany,3,Scarlett 2i2,118,169,507,354,153
+2023-03-01,2023,March,Government,United States of America,16,QuadCast S,97,139,2224,1552,672
+2022-06-01,2022,June,Government,Canada,30,MV7,174,199,5970,5220,750
+2022-12-01,2022,December,Government,Germany,21,Scarlett 2i2,118,169,3549,2478,1071
+2022-05-01,2022,May,Enterprise,Canada,2,MV7,174,199,398,348,50
+2022-07-01,2022,July,Creator,United States of America,12,Scarlett 2i2,118,169,2028,1416,612
+2022-01-01,2022,January,Government,Canada,1,AudioBox USB 96 Studio,90,199,199,90,109
+2023-11-01,2023,November,Small Business,Canada,14,Scarlett 2i2,118,169,2366,1652,714
+2023-06-01,2023,June,Government,Germany,14,Scarlett 2i2,118,169,2366,1652,714
+2023-12-01,2023,December,Creator,United States of America,9,Scarlett 2i2,118,169,1521,1062,459
+2023-07-01,2023,July,Small Business,Mexico,8,MV7,174,199,1592,1392,200
+2022-10-01,2022,October,Small Business,Germany,2,QuadCast S,97,139,278,194,84
+2022-07-01,2022,July,Small Business,United States of America,5,AudioBox USB 96 Studio,90,199,995,450,545
+2022-08-01,2022,August,Enterprise,Canada,0,AudioBox USB 96 Studio,90,199,0,0,0
+2022-09-01,2022,September,Small Business,United States of America,25,NT1-A,160,229,5725,4000,1725
+2022-09-01,2022,September,Enterprise,Germany,10,Arctis 7P+,104,149,1490,1040,450
+2022-05-01,2022,May,Government,United States of America,17,AudioBox USB 96 Studio,90,199,3383,1530,1853
+2023-05-01,2023,May,Government,Mexico,29,Scarlett 2i2,118,169,4901,3422,1479
+2023-10-01,2023,October,Enterprise,Mexico,22,MV7,174,199,4378,3828,550
+2023-12-01,2023,December,Government,Germany,15,MV7,174,199,2985,2610,375
+2022-01-01,2022,January,Education,United States of America,28,Scarlett 2i2,118,169,4732,3304,1428
+2022-01-01,2022,January,Government,France,8,AudioBox USB 96 Studio,90,199,1592,720,872
+2023-12-01,2023,December,Government,United States of America,3,Scarlett 2i2,118,169,507,354,153
+2023-06-01,2023,June,Small Business,Canada,11,MV7,174,199,2189,1914,275
+2023-09-01,2023,September,Government,France,15,Scarlett 2i2,118,169,2535,1770,765
+2022-11-01,2022,November,Small Business,France,4,AudioBox USB 96 Studio,90,199,796,360,436
+2023-11-01,2023,November,Education,Germany,15,MV7,174,199,2985,2610,375
+2023-11-01,2023,November,Education,France,5,MV7,174,199,995,870,125
+2022-06-01,2022,June,Small Business,United States of America,23,QuadCast S,97,139,3197,2231,966
+2023-12-01,2023,December,Creator,France,11,AudioBox USB 96 Studio,90,199,2189,990,1199
+2022-07-01,2022,July,Government,Mexico,19,Scarlett 2i2,118,169,3211,2242,969
+2022-07-01,2022,July,Government,Canada,26,QuadCast S,97,139,3614,2522,1092
+2023-06-01,2023,June,Government,Germany,10,Scarlett 2i2,118,169,1690,1180,510
+2022-08-01,2022,August,Government,Germany,20,QuadCast S,97,139,2780,1940,840
+2022-08-01,2022,August,Creator,France,28,Arctis 7P+,104,149,4172,2912,1260
+2022-12-01,2022,December,Government,United States of America,3,QuadCast S,97,139,417,291,126
+2022-06-01,2022,June,Education,United States of America,25,Scarlett 2i2,118,169,4225,2950,1275
+2022-01-01,2022,January,Small Business,France,17,NT1-A,160,229,3893,2720,1173
+2023-02-01,2023,February,Education,France,23,Scarlett 2i2,118,169,3887,2714,1173
+2023-09-01,2023,September,Government,Mexico,30,Scarlett 2i2,118,169,5070,3540,1530
+2022-02-01,2022,February,Government,United States of America,23,NT1-A,160,229,5267,3680,1587
+2023-05-01,2023,May,Small Business,Germany,17,Scarlett 2i2,118,169,2873,2006,867
+2023-09-01,2023,September,Creator,United States of America,20,MV7,174,199,3980,3480,500
+2022-06-01,2022,June,Government,Mexico,22,Scarlett 2i2,118,169,3718,2596,1122
+2022-08-01,2022,August,Enterprise,Mexico,29,MV7,174,199,5771,5046,725
+2022-10-01,2022,October,Small Business,United States of America,23,QuadCast S,97,139,3197,2231,966
+2023-05-01,2023,May,Government,United States of America,23,NT1-A,160,229,5267,3680,1587
+2023-07-01,2023,July,Government,France,6,AudioBox USB 96 Studio,90,199,1194,540,654
+2022-12-01,2022,December,Education,France,23,Scarlett 2i2,118,169,3887,2714,1173
+2022-07-01,2022,July,Small Business,Canada,12,Scarlett 2i2,118,169,2028,1416,612
+2022-07-01,2022,July,Government,France,9,MV7,174,199,1791,1566,225
+2022-09-01,2022,September,Creator,Germany,22,QuadCast S,97,139,3058,2134,924
+2023-11-01,2023,November,Enterprise,United States of America,24,QuadCast S,97,139,3336,2328,1008
+2023-12-01,2023,December,Enterprise,Germany,17,Scarlett 2i2,118,169,2873,2006,867
+2022-03-01,2022,March,Creator,Germany,24,Scarlett 2i2,118,169,4056,2832,1224
+2023-09-01,2023,September,Government,Canada,7,Arctis 7P+,104,149,1043,728,315
+2023-09-01,2023,September,Small Business,Germany,10,QuadCast S,97,139,1390,970,420
+2023-10-01,2023,October,Enterprise,United States of America,9,AudioBox USB 96 Studio,90,199,1791,810,981
+2022-01-01,2022,January,Small Business,Mexico,24,Scarlett 2i2,118,169,4056,2832,1224
+2023-07-01,2023,July,Government,France,34,Arctis 7P+,104,149,5066,3536,1530
+2022-09-01,2022,September,Government,Canada,24,Scarlett 2i2,118,169,4056,2832,1224
+2022-10-01,2022,October,Small Business,Mexico,5,MV7,174,199,995,870,125
+2022-05-01,2022,May,Small Business,United States of America,2,NT1-A,160,229,458,320,138
+2022-08-01,2022,August,Education,France,12,Scarlett 2i2,118,169,2028,1416,612
+2022-10-01,2022,October,Government,Germany,30,AudioBox USB 96 Studio,90,199,5970,2700,3270
+2023-07-01,2023,July,Government,United States of America,25,MV7,174,199,4975,4350,625
+2023-11-01,2023,November,Enterprise,France,17,QuadCast S,97,139,2363,1649,714
+2023-06-01,2023,June,Enterprise,Germany,16,QuadCast S,97,139,2224,1552,672
+2023-02-01,2023,February,Enterprise,Germany,8,AudioBox USB 96 Studio,90,199,1592,720,872
+2022-05-01,2022,May,Creator,France,29,QuadCast S,97,139,4031,2813,1218
+2022-02-01,2022,February,Government,France,0,NT1-A,160,229,0,0,0
+2023-12-01,2023,December,Creator,Germany,10,AudioBox USB 96 Studio,90,199,1990,900,1090
+2023-10-01,2023,October,Enterprise,Germany,11,Scarlett 2i2,118,169,1859,1298,561
+2022-02-01,2022,February,Enterprise,United States of America,28,AudioBox USB 96 Studio,90,199,5572,2520,3052
+2022-11-01,2022,November,Small Business,Germany,25,AudioBox USB 96 Studio,90,199,4975,2250,2725
+2023-10-01,2023,October,Small Business,France,22,MV7,174,199,4378,3828,550
+2023-07-01,2023,July,Enterprise,France,30,Scarlett 2i2,118,169,5070,3540,1530
+2022-11-01,2022,November,Government,United States of America,13,QuadCast S,97,139,1807,1261,546
+2022-07-01,2022,July,Education,United States of America,17,Arctis 7P+,104,149,2533,1768,765
+2023-04-01,2023,April,Government,United States of America,14,QuadCast S,97,139,1946,1358,588
+2023-12-01,2023,December,Enterprise,Germany,17,NT1-A,160,229,3893,2720,1173
+2023-06-01,2023,June,Creator,France,19,NT1-A,160,229,4351,3040,1311
+2023-06-01,2023,June,Government,Mexico,15,AudioBox USB 96 Studio,90,199,2985,1350,1635
+2023-10-01,2023,October,Government,France,20,AudioBox USB 96 Studio,90,199,3980,1800,2180
+2023-10-01,2023,October,Small Business,Germany,20,NT1-A,160,229,4580,3200,1380
+2022-09-01,2022,September,Government,Mexico,18,MV7,174,199,3582,3132,450
+2023-11-01,2023,November,Small Business,Germany,14,Scarlett 2i2,118,169,2366,1652,714
+2023-04-01,2023,April,Government,France,39,AudioBox USB 96 Studio,90,199,7761,3510,4251
+2022-06-01,2022,June,Education,France,21,Scarlett 2i2,118,169,3549,2478,1071
+2022-06-01,2022,June,Government,Canada,21,QuadCast S,97,139,2919,2037,882
+2023-01-01,2023,January,Small Business,France,24,Scarlett 2i2,118,169,4056,2832,1224
+2023-04-01,2023,April,Government,United States of America,6,AudioBox USB 96 Studio,90,199,1194,540,654
+2023-12-01,2023,December,Government,France,25,MV7,174,199,4975,4350,625
+2023-12-01,2023,December,Education,Mexico,22,Arctis 7P+,104,149,3278,2288,990
+2023-05-01,2023,May,Small Business,Mexico,6,Scarlett 2i2,118,169,1014,708,306
+2022-04-01,2022,April,Government,Germany,8,AudioBox USB 96 Studio,90,199,1592,720,872
+2022-01-01,2022,January,Enterprise,Mexico,20,Arctis 7P+,104,149,2980,2080,900
+2023-05-01,2023,May,Creator,France,9,QuadCast S,97,139,1251,873,378
+2022-01-01,2022,January,Government,Germany,8,MV7,174,199,1592,1392,200
+2023-11-01,2023,November,Small Business,Mexico,22,Scarlett 2i2,118,169,3718,2596,1122
+2022-05-01,2022,May,Government,France,10,QuadCast S,97,139,1390,970,420
+2023-12-01,2023,December,Government,Mexico,5,QuadCast S,97,139,695,485,210
+2022-03-01,2022,March,Enterprise,United States of America,26,NT1-A,160,229,5954,4160,1794
+2023-06-01,2023,June,Small Business,France,5,Scarlett 2i2,118,169,845,590,255
+2023-06-01,2023,June,Government,Canada,11,AudioBox USB 96 Studio,90,199,2189,990,1199
+2023-07-01,2023,July,Enterprise,Germany,35,Scarlett 2i2,118,169,5915,4130,1785
+2023-10-01,2023,October,Government,France,17,Arctis 7P+,104,149,2533,1768,765
+2023-08-01,2023,August,Enterprise,France,12,MV7,174,199,2388,2088,300
+2023-09-01,2023,September,Enterprise,United States of America,16,AudioBox USB 96 Studio,90,199,3184,1440,1744
+2022-01-01,2022,January,Education,Mexico,27,AudioBox USB 96 Studio,90,199,5373,2430,2943
+2023-02-01,2023,February,Government,Germany,20,NT1-A,160,229,4580,3200,1380
+2022-12-01,2022,December,Government,Germany,19,QuadCast S,97,139,2641,1843,798
+2022-06-01,2022,June,Government,France,20,Arctis 7P+,104,149,2980,2080,900
+2022-09-01,2022,September,Enterprise,Canada,24,MV7,174,199,4776,4176,600
+2023-08-01,2023,August,Enterprise,Mexico,15,MV7,174,199,2985,2610,375
+2022-10-01,2022,October,Creator,Canada,23,MV7,174,199,4577,4002,575
+2023-10-01,2023,October,Enterprise,Canada,20,AudioBox USB 96 Studio,90,199,3980,1800,2180
+2022-03-01,2022,March,Government,France,23,QuadCast S,97,139,3197,2231,966
+2023-09-01,2023,September,Education,United States of America,18,Scarlett 2i2,118,169,3042,2124,918
+2023-02-01,2023,February,Government,Germany,27,Scarlett 2i2,118,169,4563,3186,1377
+2023-01-01,2023,January,Small Business,United States of America,35,Scarlett 2i2,118,169,5915,4130,1785
+2023-05-01,2023,May,Small Business,Canada,17,Scarlett 2i2,118,169,2873,2006,867
+2022-06-01,2022,June,Government,United States of America,23,MV7,174,199,4577,4002,575
+2022-01-01,2022,January,Education,Canada,19,Scarlett 2i2,118,169,3211,2242,969
+2022-06-01,2022,June,Small Business,Germany,12,QuadCast S,97,139,1668,1164,504
+2022-02-01,2022,February,Enterprise,France,3,AudioBox USB 96 Studio,90,199,597,270,327
+2022-02-01,2022,February,Government,France,27,AudioBox USB 96 Studio,90,199,5373,2430,2943
+2023-05-01,2023,May,Government,France,16,MV7,174,199,3184,2784,400
+2023-12-01,2023,December,Education,Canada,23,NT1-A,160,229,5267,3680,1587
+2023-10-01,2023,October,Education,Canada,16,Scarlett 2i2,118,169,2704,1888,816
+2023-05-01,2023,May,Enterprise,United States of America,28,Arctis 7P+,104,149,4172,2912,1260
+2022-07-01,2022,July,Small Business,France,20,AudioBox USB 96 Studio,90,199,3980,1800,2180
+2023-08-01,2023,August,Education,Canada,26,Scarlett 2i2,118,169,4394,3068,1326
+2023-07-01,2023,July,Government,Canada,21,Scarlett 2i2,118,169,3549,2478,1071
+2022-11-01,2022,November,Creator,France,18,Scarlett 2i2,118,169,3042,2124,918
+2023-01-01,2023,January,Enterprise,Canada,17,Arctis 7P+,104,149,2533,1768,765
+2023-12-01,2023,December,Enterprise,Canada,27,Scarlett 2i2,118,169,4563,3186,1377
+2022-07-01,2022,July,Enterprise,Canada,7,QuadCast S,97,139,973,679,294
+2023-02-01,2023,February,Government,United States of America,3,Arctis 7P+,104,149,447,312,135
+2022-01-01,2022,January,Government,Mexico,26,Scarlett 2i2,118,169,4394,3068,1326
+2022-08-01,2022,August,Government,Germany,0,Scarlett 2i2,118,169,0,0,0
+2022-10-01,2022,October,Government,Germany,30,Arctis 7P+,104,149,4470,3120,1350
+2022-02-01,2022,February,Education,Canada,30,Scarlett 2i2,118,169,5070,3540,1530
+2022-11-01,2022,November,Government,Mexico,22,Scarlett 2i2,118,169,3718,2596,1122
+2023-01-01,2023,January,Government,Germany,14,Scarlett 2i2,118,169,2366,1652,714
+2022-09-01,2022,September,Enterprise,United States of America,3,MV7,174,199,597,522,75
+2022-04-01,2022,April,Government,France,13,AudioBox USB 96 Studio,90,199,2587,1170,1417
+2023-05-01,2023,May,Education,Mexico,3,AudioBox USB 96 Studio,90,199,597,270,327
+2023-11-01,2023,November,Education,United States of America,20,MV7,174,199,3980,3480,500
+2022-02-01,2022,February,Government,United States of America,6,Scarlett 2i2,118,169,1014,708,306
+2023-03-01,2023,March,Enterprise,Germany,8,Scarlett 2i2,118,169,1352,944,408
+2023-04-01,2023,April,Enterprise,Germany,42,Arctis 7P+,104,149,6258,4368,1890
+2023-11-01,2023,November,Government,Mexico,12,Scarlett 2i2,118,169,2028,1416,612
+2023-03-01,2023,March,Creator,United States of America,15,AudioBox USB 96 Studio,90,199,2985,1350,1635
+2022-03-01,2022,March,Small Business,France,10,AudioBox USB 96 Studio,90,199,1990,900,1090
+2022-11-01,2022,November,Creator,Canada,22,Scarlett 2i2,118,169,3718,2596,1122
+2022-06-01,2022,June,Government,Canada,8,Scarlett 2i2,118,169,1352,944,408
+2022-11-01,2022,November,Education,Canada,16,MV7,174,199,3184,2784,400
+2023-08-01,2023,August,Enterprise,United States of America,28,AudioBox USB 96 Studio,90,199,5572,2520,3052
+2022-04-01,2022,April,Small Business,France,20,NT1-A,160,229,4580,3200,1380
+2022-11-01,2022,November,Small Business,Canada,14,Scarlett 2i2,118,169,2366,1652,714
+2022-02-01,2022,February,Creator,Germany,10,Scarlett 2i2,118,169,1690,1180,510
+2022-07-01,2022,July,Government,Canada,7,AudioBox USB 96 Studio,90,199,1393,630,763
+2023-06-01,2023,June,Small Business,France,5,MV7,174,199,995,870,125
+2022-03-01,2022,March,Small Business,Germany,4,AudioBox USB 96 Studio,90,199,796,360,436
+2023-07-01,2023,July,Government,Canada,8,MV7,174,199,1592,1392,200
+2023-11-01,2023,November,Government,Germany,4,Scarlett 2i2,118,169,676,472,204
+2023-01-01,2023,January,Government,Mexico,24,Scarlett 2i2,118,169,4056,2832,1224
+2023-06-01,2023,June,Enterprise,United States of America,7,Scarlett 2i2,118,169,1183,826,357
+2023-10-01,2023,October,Enterprise,Germany,11,MV7,174,199,2189,1914,275
+2022-02-01,2022,February,Government,France,5,NT1-A,160,229,1145,800,345
+2023-05-01,2023,May,Enterprise,Mexico,3,QuadCast S,97,139,417,291,126
+2022-03-01,2022,March,Government,Canada,24,Scarlett 2i2,118,169,4056,2832,1224
+2022-02-01,2022,February,Education,Mexico,23,QuadCast S,97,139,3197,2231,966
+2022-02-01,2022,February,Education,Germany,10,QuadCast S,97,139,1390,970,420
+2022-04-01,2022,April,Government,France,24,Scarlett 2i2,118,169,4056,2832,1224
+2023-01-01,2023,January,Government,Canada,16,MV7,174,199,3184,2784,400
+2023-12-01,2023,December,Enterprise,United States of America,28,NT1-A,160,229,6412,4480,1932
+2022-06-01,2022,June,Government,Mexico,1,Arctis 7P+,104,149,149,104,45
+2022-04-01,2022,April,Government,United States of America,1,Scarlett 2i2,118,169,169,118,51
+2022-02-01,2022,February,Small Business,Canada,20,AudioBox USB 96 Studio,90,199,3980,1800,2180
+2023-05-01,2023,May,Education,Germany,15,AudioBox USB 96 Studio,90,199,2985,1350,1635
+2023-09-01,2023,September,Government,Canada,21,Scarlett 2i2,118,169,3549,2478,1071
+2023-10-01,2023,October,Education,Germany,12,QuadCast S,97,139,1668,1164,504
+2022-07-01,2022,July,Enterprise,Germany,20,NT1-A,160,229,4580,3200,1380
+2022-02-01,2022,February,Enterprise,Mexico,19,AudioBox USB 96 Studio,90,199,3781,1710,2071
+2022-06-01,2022,June,Creator,United States of America,20,MV7,174,199,3980,3480,500
+2023-02-01,2023,February,Small Business,Mexico,28,QuadCast S,97,139,3892,2716,1176
+2023-09-01,2023,September,Enterprise,France,7,AudioBox USB 96 Studio,90,199,1393,630,763
