@@ -1,2 +1,2 @@
-# Financial-Performance-Analysis
-Analysis of profitability and efficiency using SQL and Power BI
+# OVERVIEW
+This project provides an analysis of financial performance using data to evaluate key metrics such as Revenue, Cost of Goods Sold, Gross Profit, and Gross Profit Margin. It reviews year-over-year (YoY) performance, revenue trend and geographical performance (by country). The goal was to identify profitability changes, growth pattern and recommend strategies to improve overall business performance. It offers actionable insights for finance and management decision making. 
