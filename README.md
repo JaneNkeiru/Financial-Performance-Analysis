@@ -32,7 +32,7 @@ The data used in this analysis comprised of three separate datasets (product dat
 -	Though reducing Cost of Goods by -10.84%, Germany experienced a sharp decrease in revenue and profit -10% and -8.15% respectively. This decrease was because of a reduction in sales by 10.8%    compared to 2022 sales.
 -	Similar to Germany’s situation is Mexico. It recorded a slight decrease in revenue and profit, however contrary to Germany, cost slightly increased. This suggests operational inefficiency.
 -	France and USA showed red flags. Revenue growth was strong in both. However, cost grew at a faster rate. This suggests inefficient cost control.
-![Financial Performance Dashboard](dashboard.png)
+![Financial Performance Dashboard](Financial Performance Dashboard.png)
 
 ## Recommendations
 -	Audit cost structure in France, Mexico and United States of America. Identify what is diving cost increase (logistics, labour or supplier pricing)
